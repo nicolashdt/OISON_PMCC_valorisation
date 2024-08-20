@@ -10,10 +10,10 @@ Fichiers intémédiaires créés à partir des scripts et des fichiers dans asse
 ### Raw_data
 Le géopackage OISON (version mars 2024). Un excel PMCC et le csv de la première feuille du excel.
 ### Scripts
-#### 0_chargement_packages
-#### 0_importations_statuts_especes
-#### 1_importation_communes_departements
-#### 1_importation_listes_rouge
-#### 1_importation_OISON
-#### 1_importation_PMC
-#### 2_assemblage_bases
+0_chargement_packages
+0_importations_statuts_especes
+1_importation_communes_departements
+1_importation_listes_rouge : importation des listes rouges, protégées, envahissantes du dossier assets
+1_importation_OISON : mise en forme du fichier OISON
+1_importation_PMC : mise en forme du fichier PMC
+2_assemblage_bases : script le plus important permettant de faire le lien entre toutes les bases
