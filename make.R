@@ -17,7 +17,7 @@
 source("scripts/0_chargement_packages.R")
 source("scripts/0_importation_statuts_especes.R")
 source("scripts/1_importation_communes_departements.R")
-source("scripts/1_importation_liste_rouge.R")
+source("scripts/1_importation_listes_rouge.R")
 source("scripts/1_importation_OISON.R")
 source("scripts/1_importation_PMC.R")
 source("scripts/2_assemblage_bases.R")
