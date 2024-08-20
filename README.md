@@ -1,5 +1,7 @@
 # Valorisation des données OISON et PMCC de l'OFB
-## Description du projet
+## Objectif
+Ce projet produit des rapports automatisés de l'évolution de la saisies sur les données de l'OFB issues de OISON et du réseau PMCC. 
+## Arborescence du projet
 ### Assets
 Elements concernants les espèces et les limites administratives
 Les assets sont utilisées à la fois directement dans le Rmarkdown mais aussi pour générer des fichiers intermédiaires dans processed_data.
@@ -17,3 +19,5 @@ Le géopackage OISON (version mars 2024). Un excel PMCC et le csv de la premièr
 - 1_importation_OISON : mise en forme du fichier OISON
 - 1_importation_PMC : mise en forme du fichier PMC
 - 2_assemblage_bases : script le plus important permettant de faire le lien entre toutes les bases (ajout des espèces protégées dans les Hauts-de-France)
+### Templates
+Scripts Rmarkdown pour la production des rapports et la création de graphiques.
