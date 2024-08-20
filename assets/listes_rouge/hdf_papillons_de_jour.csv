@@ -1,0 +1,127 @@
+CDNOM;FAMILLE;NOM_SCIENTIFIQUE;NOM_VERNACULAIRE;CATEGORIE_HAUTS-DE-FRANCE;CRITERES;CATEGORIE_FRANCE;CATEGORIE_EUROPE
+53425;Nymphalidae;Chazara briseis (Linnaeus, 1764);Hermite;RE;-;VU;NT
+53651;Nymphalidae;Coenonympha hero (Linnaeus, 1761);Fadet de l'élyme, Mélibée;RE;-;CR ;VU 
+53631;Nymphalidae;Coenonympha tullia (O.F. Muller, 1764);Fadet des tourbières;RE;-;EN;VU
+53483;Nymphalidae;Erebia aethiops (Esper, 1777);Moiré sylvicole;RE;-;LC;LC 
+53856;Nymphalidae;Euphydryas maturna (Linnaeus, 1758);Damier du Frêne;RE;-;EN;VU 
+53895;Nymphalidae;Fabriciana niobe (Linnaeus, 1758);Chiffre;RE;-;NT;LC 
+219750;Lycaenidae;Lycaena virgaureae (Linnaeus, 1758);Cuivré de la verge d'or;RE;-;LC ;LC 
+53376;Nymphalidae;Hipparchia fagi (Scopoli, 1763);Sylvandre;RE;-;LC;NT 
+219806;Nymphalidae;Hipparchia statilinus (Hufnagel, 1766);Faune;RE;-;LC;NT 
+53767;Nymphalidae;Limenitis reducta Staudinger, 1901;Sylvain azuré;RE;-;LC ;LC 
+53615;Nymphalidae;Lopinga achine (Scopoli, 1763);Bacchante;RE;-;NT ;VU 
+219765;Lycaenidae;Polyommatus thersites (Cantener, 1835);Azuré de l'esparcette;RE;-;LC;LC
+53229;Hesperidae;Pyrgus alveus (Hubner, 1803);Hespérie du faux-buis;RE;-;LC ;LC
+219743;Hesperidae;Pyrgus carthami (Hubner, 1813);Hespérie du carthame;RE;-;LC;LC
+53487;Nymphalidae;Erebia medusa (Denis & Schiffermuller, 1775);Moiré franconien;CR;B(1+2)ab(iii);LC ;LC
+54055;Lycaenidae;Pseudophilotes baton (Bergstrasser, 1779);Azuré du Thym;CR;B1ab(iii,iv);LC ;LC 
+219815;Nymphalidae;Boloria euphrosyne (Linnaeus, 1758);Grand collier argenté;CR;B1ab(iii);LC ;LC
+219753;Lycaenidae;Lycaena hippothoe (Linnaeus, 1761);Cuivré écarlate;CR;B1ab(iii);LC ;LC
+219811;Nymphalidae;Melitaea aurelia Nickerl, 1850;Mélitée des Digitales;CR;B1ab(iii);VU;NT 
+53794;Nymphalidae;Melitaea didyma (Esper, 1778);Mélitée orangée;CR;B1ab(iii);LC;LC 
+219810;Nymphalidae;Melitaea parthenoides Keferstein, 1851;Mélitée de la Lancéole;CR;B1ab(iii);LC ;LC 
+53811;Nymphalidae;Melitaea phoebe (Denis & Schiffermuller, 1775);Mélitée des Centaurées;CR;B1ab(iii);LC ;LC 
+631133;Lycaenidae;Phengaris arion (Linnaeus, 1758);Azuré du Serpolet;CR;B1ab(iii);LC;EN 
+53821;Nymphalidae;Melitaea diamina (Lang, 1789);Mélitée noirâtre;CR;C2a(i);LC ;LC 
+53902;Nymphalidae;Fabriciana adippe (Denis & Schiffermuller, 1775);Moyen Nacré;CR;D1;LC ;LC
+247064;Zygaenidae;Adscita geryon (Hubner, 1813);Procris de l'Hélianthème;EN;B(1+2)ab(iii);/;/
+247063;Zygaenidae;Adscita statices (Linnaeus, 1758);Procris de l'Oseille;EN;B(1+2)ab(iii);/;/
+219817;Nymphalidae;Boloria selene (Denis & Schiffermuller, 1775);Petit Collier argenté;EN;B(1+2)ab(iii);NT ;LC 
+219751;Lycaenidae;Lycaena tityrus (Poda, 1761);Cuivré fuligineux;EN;B(1+2)ab(iii);LC ;LC
+219812;Nymphalidae;Melitaea athalia (Rottemburg, 1775);Mélitée du Mélampyre;EN;B(1+2)ab(iii);LC ;LC
+54170;Lycaenidae;Plebejus argyrognomon (Bergstrasser, 1779);Azuré des Coronilles;EN;B(1+2)ab(iii);LC;LC
+247056;Zygaenidae;Zygaena ephialtes (Linnaeus, 1767);Zygène de la Coronille;EN;B(1+2)ab(iii);/;/
+53332;Hesperiidae;Hesperia comma (Linnaeus, 1758);Virgule;EN;B2ab(ii,iii,iv);LC;LC 
+53320;Hesperiidae;Thymelicus acteon (Rottemburg, 1775);Hespérie du Chiendent;EN;B2ab(ii);LC ;NT
+53312;Hesperiidae;Heteropterus morpheus (Pallas, 1771);Miroir;EN;B2ab(iii,iv);LC ;LC 
+54339;Pieridae;Aporia crataegi (Linnaeus, 1758);Gazé;EN;B2ab(iii);LC;LC 
+53915;Nymphalidae;Brenthis ino (Rottemburg, 1775);Nacré de la Sanguisorbe;EN;B2ab(iii);LC ;LC 
+53663;Nymphalidae;Coenonympha glycerion (Borkhausen, 1788);Fadet de la Mélique;EN;B2ab(iii);LC;LC 
+53865;Nymphalidae;Euphydryas aurinia (Rottemburg, 1775);Damier de la Succise;EN;B2ab(iii);LC;LC 
+54075;Lycaenidae;Glaucopsyche alexis (Poda, 1761);Azuré des Cytises;EN;B2ab(iii);LC ;LC 
+53969;Riodinidae;Hamearis lucina (Linnaeus, 1758);Lucine;EN;B2ab(iii);LC ;LC 
+53391;Nymphalidae;Hipparchia semele (Linnaeus, 1758);Agreste;EN;B2ab(iii);LC ;LC 
+247071;Zygaenidae;Jordanita globulariae (Hubner, 1793);Procris des Centaurées;EN;B2ab(iii);/;/
+53979;Lycaenidae;Lycaena dispar (Haworth, 1802);Cuivré des marais;EN;B2ab(iii);LC ;LC
+631131;Lycaenidae;Phengaris alcon (Denis & Schiffermuller, 1775);Azuré de la Croisette;EN;B2ab(iii);NT ;LC
+54105;Lycaenidae;Plebejus argus (Linnaeus, 1758);Azuré de l'Ajonc;EN;B2ab(iii);LC ;LC
+219758;Lycaenidae;Satyrium ilicis (Esper, 1779);Thécla de l'Yeuse;EN;B2ab(iii);LC ;LC
+820680;Nymphalidae;Speyeria aglaja (Linnaeus, 1758);Grand Nacré;EN;B2ab(iii);LC ;LC
+53269;Hesperiidae;Spialia sertorius (Hoffmannsegg, 1804);Hespérie des Sanguisorbes;EN;B2ab(iii);LC ;LC
+247045;Zygaenidae;Zygaena carniolica (Scopoli, 1763);Zygène du Sainfoin;EN;B2ab(iii);/;/
+247060;Zygaenidae;Zygaena trifolii (Esper, 1783);Zygène des prés;EN;B2ab(iii);/;/
+247054;Zygaenidae;Zygaena viciae (Denis & Schiffermuller, 1775);Zygène des Thérésiens;EN;B2ab(iii);/;/
+53370;Nymphalidae;Arethusana arethusa (Denis & Schiffermuller, 1775);Mercure;EN;B2ab(iv);LC ;LC 
+53315;Hesperiidae;Carterocephalus palaemon (Pallas, 1771);Hespérie du Brome;VU;A4c;LC ;LC 
+53783;Nymphalidae;Apatura ilia (Denis & Schiffermuller, 1775);Petit Mars changeant;VU;B2ab(iii);LC;LC 
+53786;Nymphalidae;Apatura iris (Linnaeus, 1758);Grand mars changeant;VU;B2ab(iii);LC ;LC 
+247047;Zygaenidae;Zygaena loti (Denis & Schiffermuller, 1775);Zygène du Lotier;VU;B2ab(iii);/;/
+247041;Zygaenidae;Zygaena minos (Denis & Schiffermuller, 1775);Zygène diaphane;VU;B2ab(iii);/;/
+53609;Nymphalidae;Lasiommata maera (Linnaeus, 1758);Némusien;VU;D1;LC ;LC 
+53604;Nymphalidae;Lasiommata megera (Linnaeus, 1767);Mégère ;NT;pr. A2c+B2b(ii,iii);LC ;LC 
+53817;Nymphalidae;Melitaea cinxia (Linnaeus, 1758);Mélitée du Plantain;NT;pr. B(1+2)ab(iii);LC ;LC 
+53727;Nymphalidae;Nymphalis polychloros (Linnaeus, 1758);Grande Tortue;NT;pr. B2ab(iii);LC ;LC 
+219756;Lycaenidae;Satyrium pruni (Linnaeus, 1758);Thécla du Prunier;NT;pr. B2ab(iii);LC ;LC 
+219755;Lycaenidae;Satyrium w-album (Knoch, 1782);Thécla de l'Orme;NT;pr. B2ab(iii);LC ;LC 
+219818;Nymphalidae;Boloria dia (Linnaeus, 1767);Petite Violette;NT;pr. B2b(iii);LC ;LC 
+219826;Pieridae;Colias alfacariensis Ribbe, 1905;Fluoré;NT;pr. B2b(iii);LC ;LC 
+54029;Lycaenidae;Cupido minimus (Fuessly, 1775);Argus frêle;NT;pr. B2b(iii);LC ;LC 
+54213;Lycaenidae;Cyaniris semiargus (Rottemburg, 1775);Demi-Argus;NT;pr. B2b(iii);LC ;LC 
+53307;Hesperiidae;Erynnis tages (Linnaeus, 1758);Point de Hongrie;NT;pr. B2b(iii);LC ;LC 
+54271;Lycaenidae;Lysandra bellargus (Rottemburg, 1775);Bel-Argus;NT;pr. B2b(iii);LC ;LC 
+54265;Lycaenidae;Lysandra coridon (Poda, 1761);Argus bleu-nacré ;NT;pr. B2b(iii);LC ;LC 
+608364;Nymphalidae;Aglais io (Linnaeus, 1758);Paon-du-jour;LC;-;LC ;LC 
+53754;Nymphalidae;Aglais urticae (Linnaeus, 1758);Petite Tortue;LC;-;LC ;LC 
+54451;Pieridae;Anthocharis cardamines (Linnaeus, 1758);Aurore;LC;-;LC ;LC 
+219799;Nymphalidae;Aphantopus hyperantus (Linnaeus, 1758);Tristan;LC;-;LC ;LC 
+53724;Nymphalidae;Araschnia levana (Linnaeus, 1758);Carte géographique;LC;-;LC ;LC 
+53878;Nymphalidae;Argynnis paphia (Linnaeus, 1758);Tabac d'Espagne;LC;-;LC ;LC 
+521494;Lycaenidae;Aricia agestis (Denis & Schiffermuller, 1775);Collier-de-corail ;LC;-;LC ;LC 
+646236;Nymphalidae;Brenthis daphne (Denis & Schiffermuller, 1775);Nacré de la Ronce;LC;-;LC ;LC 
+54307;Lycaenidae;Callophrys rubi (Linnaeus, 1758);Thécla de la Ronce;LC;-;LC ;LC 
+53291;Hesperiidae;Carcharodus alceae (Esper, 1780);Hespérie de l'Alcée;LC;-;LC ;LC 
+54052;Lycaenidae;Celastrina argiolus (Linnaeus, 1758);Azuré des Nerpruns;LC;-;LC ;LC 
+53661;Nymphalidae;Coenonympha arcania (Linnaeus, 1761);Céphale;LC;-;LC ;LC 
+53623;Nymphalidae;Coenonympha pamphilus (Linnaeus, 1758);Fadet commun;LC;-;LC ;LC 
+641941;Pieridae;Colias crocea (Geoffroy in Fourcroy, 1785);Souci;LC;-;LC ;LC 
+54417;Pieridae;Gonepteryx rhamni (Linnaeus, 1758);Citron;LC;-;LC ;LC 
+54475;Papilionidae;Iphiclides podalirius (Linnaeus, 1758);Flambé;LC;-;LC ;LC 
+53908;Nymphalidae;Issoria lathonia (Linnaeus, 1758);Petit Nacré;LC;-;LC ;LC 
+54376;Pieridae;Leptidea sinapis (Linnaeus, 1758);Piéride de la Moutarde;LC;-;LC ;LC 
+53770;Nymphalidae;Limenitis camilla (Linnaeus, 1764);Petit Sylvain;LC;-;LC ;LC 
+53973;Lycaenidae;Lycaena phlaeas (Linnaeus, 1761);Cuivré commun;LC;-;LC ;LC 
+53668;Nymphalidae;Maniola jurtina (Linnaeus, 1758);Myrtil;LC;-;LC ;LC 
+53700;Nymphalidae;Melanargia galathea (Linnaeus, 1758);Demi-Deuil ;LC;-;LC ;LC 
+219740;Hesperiidae;Ochlodes sylvanus (Esper, 1777);Sylvaine;LC;-;LC ;LC 
+54468;Papilionidae;Papilio machaon Linnaeus, 1758;Machaon;LC;-;LC ;LC 
+53595;Nymphalidae;Pararge aegeria (Linnaeus, 1758);Tircis;LC;-;LC ;LC 
+54342;Pieridae;Pieris brassicae (Linnaeus, 1758);Piéride du Chou;LC;-;LC ;LC 
+219833;Pieridae;Pieris napi (Linnaeus, 1758);Piéride du Navet;LC;-;LC ;LC 
+219831;Pieridae;Pieris rapae (Linnaeus, 1758);Piéride de la Rave;LC;-;LC ;LC 
+53759;Nymphalidae;Polygonia c-album (Linnaeus, 1758);Le Robert-le-Diable;LC;-;LC ;LC 
+54279;Lycaenidae;Polyommatus icarus (Rottemburg, 1775);Azuré de la Bugrane;LC;-;LC ;LC 
+53221;Hesperiidae;Pyrgus malvae (Linnaeus, 1758);Hespérie de la Mauve;LC;-;LC ;LC 
+608405;Nymphalidae;Pyronia tithonus (Linnaeus, 1771);Amaryllis;LC;-;LC ;LC 
+54322;Lycaenidae;Quercusia quercus (Linnaeus, 1758);Thécla du Chêne;LC;-;LC ;LC 
+54319;Lycaenidae;Thecla betulae (Linnaeus, 1758);Thécla du Bouleau;LC;-;LC ;LC 
+219741;Hesperiidae;Thymelicus lineola (Ochsenheimer, 1808);Hespérie du Dactyle;LC;-;LC ;LC 
+219742;Hesperiidae;Thymelicus sylvestris (Poda, 1761);Hespérie de la Houque;LC;-;LC ;LC 
+53741;Nymphalidae;Vanessa atalanta (Linnaeus, 1758);Le Vulcain;LC;-;LC ;LC 
+53747;Nymphalidae;Vanessa cardui (Linnaeus, 1758);Belle-Dame;LC;-;LC ;LC 
+247058;Zygaenidae;Zygaena filipendulae (Linnaeus, 1758);Zygène de la Filipendule;LC;-;/;/
+54384;Pieridae;Colias hyale (Linnaeus, 1758);Soufré;DD;-;LC ;LC 
+219793;Lycaenidae;Cupido argiades (Pallas, 1771);Azuré du Trèfle;DD;-;LC;LC 
+53765;Nymphalidae;Limenitis populi (Linnaeus, 1758);Grand Sylvain;DD;-;NT ;LC 
+53236;Hesperidae;Pyrgus armoricanus (Oberthur, 1910);Hespérie des potentilles;DD;-;LC ;LC 
+53242;Hesperiidae;Pyrgus serratulae (Rambur, 1839);Hespérie de l'Alchémille;DD;-;LC ;LC 
+247073;Zygaenidae;Rhagades pruni (Denis & Schiffermuller, 1775);Procris du Prunier;DD;-;/;/
+247059;Zygaenidae;Zygaena lonicerae (Scheven, 1777);Zygène des bois;DD;-;/;/
+247042;Zygaenidae;Zygaena purpuralis (Brunnich, 1763);Zygene pourpre;DD;-;/;/
+247057;Zygaenidae;Zygaena transalpina (Esper, 1780);Zygène transalpine ;DD;-;/;/
+219796;Lycaenidae;Cacyreus marshalli Butler, 1898;Brun du pélargonium;NA;-;NA ;/
+53350;Nymphalidae;Danaus plexippus (Linnaeus, 1758);Monarque;NA;-;NA;/
+54433;Pieridae;Euchloe crameri Butler, 1869;Marbré de Cramer;NA;-;LC ;LC 
+54021;Lycaenidae;Lampides boeticus (Linnaeus, 1767);Azuré porte-queue;NA;-;LC ;LC 
+53733;Nymphalidae;Nymphalis antiopa (Linnaeus, 1758);Morio;NA;-;LC ;LC 
+54362;Pieridae;Pontia daplidice (Linnaeus, 1758);Marbré-de-vert ;NA;-;LC ;LC 
+219830;Pieridae;Pieris mannii (Mayer, 1851);Piéride de l'Ibéride;NAb;-;LC ;LC 

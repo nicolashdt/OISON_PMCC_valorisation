@@ -1,0 +1,225 @@
+CDNOM;NOM_SCIENTIFIQUE;NOM_VERNACULAIRE;CATEGORIE_HAUTS-DE-FRANCE;CRITERES;CATEGORIE_FRANCE;CATEGORIE_EUROPE
+4127;Turdus pilaris Linnaeus, 1758;Grive litorne;RE;-;LC;LC
+3089;Tetrax tetrax (Linnaeus, 1758);Outarde canepetière;RE;-;EN;VU
+3601;Picus canus Gmelin, 1788;Pic cendré;RE;-;EN;LC
+3814;Lanius excubitor Linnaeus, 1758;Pie-grièche grise;CR*;D;EN;LC
+3713;Anthus campestris (Linnaeus, 1758);Pipit rousseline;CR*;D;LC;LC
+3670;Lullula arborea (Linnaeus, 1758);Alouette lulu;CR;C2a(i);LC;LC
+2563;Limosa limosa (Linnaeus, 1758);Barge à queue noire;CR;D;VU;NT
+2543;Gallinago gallinago (Linnaeus, 1758);Bécassine des marais;CR;D;CR;VU
+2481;Nycticorax nycticorax (Linnaeus, 1758);Bihoreau gris;CR;D;NT;LC
+2477;Ixobrychus minutus (Linnaeus, 1766);Blongios nain;CR;C2a(i);EN;LC
+2473;Botaurus stellaris (Linnaeus, 1758);Butor étoilé;CR;C1 D;VU;LC
+2586;Tringa totanus (Linnaeus, 1758);Chevalier gambette;CR;D;LC;VU
+3958;Cinclus cinclus (Linnaeus, 1758);Cincle plongeur;CR;C2a(i);LC;LC
+3656;Galerida cristata (Linnaeus, 1758);Cochevis huppé;CR;C1;LC;LC
+2576;Numenius arquata (Linnaeus, 1758);Courlis cendré;CR;D;VU;NT
+3525;Asio flammeus (Pontoppidan, 1763);Hibou des marais;CR;D;VU;LC
+3106;Haematopus ostralegus Linnaeus, 1758;Huîtrier pie;CR;D;LC;VU
+3590;Upupa epops Linnaeus, 1758;Huppe fasciée;CR;D;LC;LC
+3045;Porzana pusilla (Pallas, 1776);Marouette de Baillon;CR;D;CR;LC
+3039;Porzana porzana (Linnaeus, 1766);Marouette ponctuée;CR;C1 D;VU;LC
+2844;Milvus milvus (Linnaeus, 1758);Milan royal;CR;D;VU;LC
+4532;Passer montanus (Linnaeus, 1758);Moineau friquet;CR;A4a;EN;LC
+4338;Panurus biarmicus (Linnaeus, 1758);Panure à moustaches;CR;C2a(i);LC;LC
+3053;Crex crex (Linnaeus, 1758);Râle des genêts;CR;C1 D;EN;LC
+4198;Acrocephalus arundinaceus (Linnaeus, 1758);Rousserolle turdoïde;CR;A2c C1 D;VU;LC
+1958;Anas crecca Linnaeus, 1758;Sarcelle d'hiver;CR;C1 D;VU;LC
+4049;Saxicola rubetra (Linnaeus, 1758);Tarier des prés;CR;C1;VU;LC
+3595;Jynx torquilla Linnaeus, 1758;Torcol fourmilier;CR;D;NT;LC
+4064;Oenanthe oenanthe (Linnaeus, 1758);Traquet motteux;CR;C1 D;NT;LC
+2891;Accipiter gentilis (Linnaeus, 1758);Autour des palombes;EN;D;LC;LC
+4669;Emberiza schoeniclus (Linnaeus, 1758);Bruant des roseaux;EN;A2a C1;EN;LC
+4659;Emberiza cirlus Linnaeus, 1758;Bruant zizi;EN;D;LC;LC
+2887;Circus pygargus (Linnaeus, 1758);Busard cendré;EN;D;NT;LC
+2514;Ciconia nigra (Linnaeus, 1758);Cigogne noire;EN;CR (D1) (-1);EN;LC
+3112;Himantopus himantopus (Linnaeus, 1758);Échasse blanche;EN;D;LC;LC
+1991;Aythya ferina (Linnaeus, 1758);Fuligule milouin;EN;D;VU;VU
+998;Fulmarus glacialis (Linnaeus, 1760);Fulmar boréal;EN;D;NT;VU
+4330;Ficedula hypoleuca (Pallas, 1764);Gobemouche noir;EN;D;VU;LC
+3293;Larus canus Linnaeus, 1758;Goéland cendré;EN;D;EN;LC
+4510;Corvus corax Linnaeus, 1758;Grand Corbeau;EN;D;LC;LC
+3140;Charadrius hiaticula Linnaeus, 1758;Grand Gravelot;EN;B(1+2)ab(ii) D;VU;LC
+3142;Charadrius alexandrinus Linnaeus, 1758;Gravelot à collier interrompu;EN;B(1+2)ab(ii) D;VU;LC
+4212;Hippolais icterina (Vieillot, 1817);Hypolaïs ictérine;EN;A2c C1;VU;LC
+4172;Locustella luscinioides (Savi, 1824);Locustelle luscinioïde;EN;C2a(i);EN;LC
+534752;Poecile montanus (Conrad, 1827);Mésange boréale;EN;A4a;VU;LC
+3726;Anthus pratensis (Linnaeus, 1758);Pipit farlouse;EN;A2a;VU;LC
+4269;Phylloscopus bonelli (Vieillot, 1819);Pouillot de Bonelli;EN;D;LC;LC
+4272;Phylloscopus sibilatrix (Bechstein, 1793);Pouillot siffleur;EN;C1;NT;LC
+1975;Anas querquedula Linnaeus, 1758;Sarcelle d'été;EN;D;VU;LC
+2530;Platalea leucorodia Linnaeus, 1758;Spatule blanche;EN;CR (A2c) (-1);NT;LC
+3342;Sterna sandvicensis Latham, 1787;Sterne caugek;EN;B(1+2)ab(v);NT;LC
+3352;Sternula albifrons (Pallas, 1764);Sterne naine;EN;B2ab(v) C1;LC;LC
+3439;Streptopelia turtur (Linnaeus, 1758);Tourterelle des bois;EN;A2b;VU;LC
+3676;Alauda arvensis Linnaeus, 1758;Alouette des champs;VU;A4a;NT;LC
+3116;Recurvirostra avosetta Linnaeus, 1758;Avocette élégante;VU;D1;LC;LC
+2559;Scolopax rusticola Linnaeus, 1758;Bécasse des bois;VU;D1;LC;LC
+3741;Motacilla flava Linnaeus, 1758;Bergeronnette printanière;VU;A2b;LC;LC
+4619;Pyrrhula pyrrhula (Linnaeus, 1758);Bouvreuil pivoine;VU;C1;VU;LC
+4657;Emberiza citrinella Linnaeus, 1758;Bruant jaune;VU;A2b;VU;LC
+4686;Emberiza calandra Linnaeus, 1758;Bruant proyer;VU;A2b;LC;LC
+2878;Circus aeruginosus (Linnaeus, 1758);Busard des roseaux;VU;D1;NT;LC
+2881;Circus cyaneus (Linnaeus, 1766);Busard Saint-Martin;VU;D1;LC;LC
+2996;Coturnix coturnix (Linnaeus, 1758);Caille des blés;VU;A2a;LC;NT
+1956;Anas strepera Linnaeus, 1758;Canard chipeau;VU;D1;LC;LC
+1970;Anas clypeata Linnaeus, 1758;Canard souchet;VU;A3c;LC;LC
+2517;Ciconia ciconia (Linnaeus, 1758);Cigogne blanche;VU;EN (D1) (-1);LC;LC
+4155;Cisticola juncidis (Rafinesque, 1810);Cisticole des joncs;VU;EN (D1) (-1);VU;LC
+3465;Cuculus canorus Linnaeus, 1758;Coucou gris;VU;A2c C1;LC;LC
+3540;Caprimulgus europaeus Linnaeus, 1758;Engoulevent d'Europe;VU;D1;LC;LC
+2938;Falco peregrinus Tunstall, 1771;Faucon pèlerin;VU;EN (D1) (-1);LC;LC
+4254;Sylvia borin (Boddaert, 1783);Fauvette des jardins;VU;A2b;NT;LC
+1998;Aythya fuligula (Linnaeus, 1758);Fuligule morillon;VU;D1;LC;NT
+3311;Larus marinus Linnaeus, 1758;Goéland marin;VU;EN (D1) (-1);LC;LC
+3493;Bubo bubo (Linnaeus, 1758);Grand-duc d'Europe;VU;EN (D1) (-1);LC;LC
+2502;Ardea alba Linnaeus, 1758;Grande Aigrette;VU;EN (D1) (-1);NT;LC
+974;Podiceps nigricollis Brehm, 1831;Grèbe à cou noir;VU;D1;LC;VU
+3784;Certhia familiaris Linnaeus, 1758;Grimpereau des bois;VU;D1;LC;LC
+3582;Merops apiaster Linnaeus, 1758;Guêpier d'Europe;VU;D1;LC;LC
+2489;Bubulcus ibis (Linnaeus, 1758);Héron garde-boeufs;VU;EN (D1) (-1);LC;LC
+3688;Riparia riparia (Linnaeus, 1758);Hirondelle de rivage;VU;A2a;LC;LC
+4588;Carduelis cannabina (Linnaeus, 1758);Linotte mélodieuse;VU;A2a;VU;LC
+4167;Locustella naevia (Boddaert, 1783);Locustelle tachetée;VU;C1;NT;LC
+3571;Alcedo atthis (Linnaeus, 1758);Martin-pêcheur d'Europe;VU;D1;VU;LC
+2840;Milvus migrans (Boddaert, 1783);Milan noir;VU;CR (D1) (-2);LC;VU
+4525;Passer domesticus (Linnaeus, 1758);Moineau domestique;VU;A2b;LC;LC
+3318;Rissa tridactyla (Linnaeus, 1758);Mouette tridactyle;VU;D2;VU;VU
+3120;Burhinus oedicnemus (Linnaeus, 1758);Œdicnème criard;VU;D1;LC;VU
+2989;Perdix perdix (Linnaeus, 1758);Perdrix grise;VU;A2b;LC;VU
+3136;Charadrius dubius Scopoli, 1786;Petit Gravelot;VU;D1;LC;LC
+4571;Serinus serinus (Linnaeus, 1766);Serin cini;VU;C1;VU;LC
+2497;Egretta garzetta (Linnaeus, 1766);Aigrette garzette;NT;VU (D1) (-1);LC;LC
+3755;Motacilla cinerea Tunstall, 1771;Bergeronnette des ruisseaux;NT;pr. D1;LC;LC
+2832;Pernis apivorus (Linnaeus, 1758);Bondrée apivore;NT;pr. D1;LC;LC
+4583;Carduelis carduelis (Linnaeus, 1758);Chardonneret élégant;NT;pr. A2a;VU;LC
+3511;Athene noctua (Scopoli, 1769);Chevêche d'Athéna;NT;pr. A2a;LC;LC
+3482;Tyto alba (Scopoli, 1769);Effraie des clochers;NT;pr. B2a;LC;LC
+2669;Falco tinnunculus Linnaeus, 1758;Faucon crécerelle;NT;pr. A2b C1;NT;LC
+2679;Falco subbuteo Linnaeus, 1758;Faucon hobereau;NT;VU (D1) (-1);LC;LC
+4247;Sylvia curruca (Linnaeus, 1758);Fauvette babillarde;NT;pr. A2a;LC;LC
+4319;Muscicapa striata (Pallas, 1764);Gobemouche gris;NT;pr. A2c;NT;LC
+3302;Larus argentatus Pontoppidan, 1763;Goéland argenté;NT;pr. C1;NT;LC
+3297;Larus fuscus Linnaeus, 1758;Goéland brun;NT;pr. D1;LC;LC
+459478;Delichon urbicum (Linnaeus, 1758);Hirondelle de fenêtre;NT;pr. A2ac;NT;LC
+3696;Hirundo rustica Linnaeus, 1758;Hirondelle rustique;NT;pr. A2ac;NT;LC
+3272;Larus melanocephalus Temminck, 1820;Mouette mélanocéphale;NT;pr. D1;LC;LC
+3630;Dendrocopos minor (Linnaeus, 1758);Pic épeichette;NT;pr. C1 D1;VU;LC
+3608;Dryocopus martius (Linnaeus, 1758);Pic noir;NT;VU (D1) (-1);LC;LC
+3807;Lanius collurio Linnaeus, 1758;Pie-grièche écorcheur;NT;VU (D1) (-1);NT;LC
+4289;Phylloscopus trochilus (Linnaeus, 1758);Pouillot fitis;NT;pr. A2a;NT;LC
+3036;Rallus aquaticus Linnaeus, 1758;Râle d'eau;NT;pr. D1;NT;LC
+4013;Luscinia megarhynchos C. L. Brehm, 1831;Rossignol philomèle;NT;pr. A2c;LC;LC
+4040;Phoenicurus phoenicurus (Linnaeus, 1758);Rougequeue à front blanc;NT;pr. C1;LC;LC
+4195;Acrocephalus scirpaceus (Hermann, 1804);Rousserolle effarvatte;NT;VU (A2c B2b(ii)) (-1);LC;LC
+3343;Sterna hirundo Linnaeus, 1758;Sterne pierregarin;NT;pr. B(1+2)a;LC;LC
+2767;Tadorna tadorna (Linnaeus, 1758);Tadorne de Belon;NT;VU (D1) (-1);LC;LC
+459524;Saxicola rubicola (Linnaeus, 1766);Tarier pâtre;NT;pr. A2c;NT;LC
+3187;Vanellus vanellus (Linnaeus, 1758);Vanneau huppé;NT;pr. A3c;NT;VU
+4580;Carduelis chloris (Linnaeus, 1758);Verdier d'Europe;NT;pr. A2a;VU;LC
+3978;Prunella modularis (Linnaeus, 1758);Accenteur mouchet;LC;-;LC;LC
+3941;Motacilla alba Linnaeus, 1758;Bergeronnette grise;LC;-;LC;LC
+4151;Cettia cetti (Temminck, 1820);Bouscarle de Cetti;LC;NT (pr. D1) (-1);NT;LC
+2623;Buteo buteo (Linnaeus, 1758);Buse variable;LC;-;LC;LC
+1966;Anas platyrhynchos Linnaeus, 1758;Canard colvert;LC;-;LC;LC
+4494;Corvus monedula Linnaeus, 1758;Choucas des tours;LC;-;LC;LC
+3518;Strix aluco Linnaeus, 1758;Chouette hulotte;LC;-;LC;LC
+4501;Corvus frugilegus Linnaeus, 1758;Corbeau freux;LC;NT (pr. A2a) (-1);LC;VU
+4503;Corvus corone Linnaeus, 1758;Corneille noire;LC;-;LC;LC
+2706;Cygnus olor (Gmelin, 1803);Cygne tuberculé;LC;VU (D1) (-2);LC;LC
+2895;Accipiter nisus (Linnaeus, 1758);Épervier d'Europe;LC;-;LC;LC
+4516;Sturnus vulgaris Linnaeus, 1758;Étourneau sansonnet;LC;-;LC;LC
+3003;Phasianus colchicus Linnaeus, 1758;Faisan de Colchide;LC;-;LC;LC
+4257;Sylvia atricapilla (Linnaeus, 1758);Fauvette à tête noire;LC;-;LC;LC
+4252;Sylvia communis Latham, 1787;Fauvette grisette;LC;-;LC;LC
+3070;Fulica atra Linnaeus, 1758;Foulque macroule;LC;-;LC;NT
+3059;Gallinula chloropus (Linnaeus, 1758);Gallinule poule-d'eau;LC;NT (pr. A2a) (-1);LC;LC
+4466;Garrulus glandarius (Linnaeus, 1758);Geai des chênes;LC;-;LC;LC
+4023;Luscinia svecica (Linnaeus, 1758);Gorgebleue à miroir;LC;-;LC;LC
+2440;Phalacrocorax carbo (Linnaeus, 1758);Grand Cormoran;LC;-;LC;LC
+977;Tachybaptus ruficollis (Pallas, 1764);Grèbe castagneux;LC;-;LC;LC
+965;Podiceps cristatus (Linnaeus, 1758);Grèbe huppé;LC;-;LC;LC
+3791;Certhia brachydactyla C.L. Brehm, 1820;Grimpereau des jardins;LC;-;LC;LC
+4142;Turdus viscivorus Linnaeus, 1758;Grive draine;LC;-;LC;LC
+4129;Turdus philomelos C. L. Brehm, 1831;Grive musicienne;LC;-;LC;LC
+4625;Coccothraustes coccothraustes (Linnaeus, 1758);Grosbec casse-noyaux;LC;-;LC;LC
+2506;Ardea cinerea Linnaeus, 1758;Héron cendré;LC;-;LC;LC
+3522;Asio otus (Linnaeus, 1758);Hibou moyen-duc;LC;-;LC;LC
+4215;Hippolais polyglotta (Vieillot, 1817);Hypolaïs polyglotte;LC;-;LC;LC
+3803;Oriolus oriolus (Linnaeus, 1758);Loriot d'Europe;LC;-;LC;LC
+3551;Apus apus (Linnaeus, 1758);Martinet noir;LC;-;NT;NT
+4117;Turdus merula Linnaeus, 1758;Merle noir;LC;-;LC;LC
+4342;Aegithalos caudatus (Linnaeus, 1758);Mésange à longue queue;LC;-;LC;LC
+534742;Cyanistes caeruleus (Linnaeus, 1758);Mésange bleue;LC;-;LC;LC
+3764;Parus major Linnaeus, 1758;Mésange charbonnière;LC;NT (pr. A2b) (-1);LC;LC
+534750;Lophophanes cristatus (Linnaeus, 1758);Mésange huppée;LC;-;LC;LC
+534751;Periparus ater (Linnaeus, 1758);Mésange noire;LC;-;LC;LC
+534753;Poecile palustris (Linnaeus, 1758);Mésange nonnette;LC;-;LC;LC
+530157;Chroicocephalus ridibundus (Linnaeus, 1766);Mouette rieuse;LC;-;NT;LC
+4187;Acrocephalus schoenobaenus (Linnaeus, 1758);Phragmite des joncs;LC;-;LC;LC
+3611;Dendrocopos major (Linnaeus, 1758);Pic épeiche;LC;-;LC;LC
+3619;Dendrocopos medius (Linnaeus, 1758);Pic mar;LC;-;LC;LC
+3603;Picus viridis Linnaeus, 1758;Pic vert;LC;NT (pr. A2b) (-1);LC;LC
+4474;Pica pica (Linnaeus, 1758);Pie bavarde;LC;-;LC;LC
+3420;Columba livia Gmelin, 1789;Pigeon biset domestique;LC;-;EN;LC
+3422;Columba oenas Linnaeus, 1758;Pigeon colombin;LC;-;LC;LC
+3424;Columba palumbus Linnaeus, 1758;Pigeon ramier;LC;-;LC;LC
+4564;Fringilla coelebs Linnaeus, 1758;Pinson des arbres;LC;-;LC;LC
+3723;Anthus trivialis (Linnaeus, 1758);Pipit des arbres;LC;-;LC;LC
+4280;Phylloscopus collybita (Vieillot, 1887);Pouillot véloce;LC;-;LC;LC
+459638;Regulus ignicapilla (Temminck, 1820);Roitelet à triple bandeau;LC;-;LC;LC
+4308;Regulus regulus (Linnaeus, 1758);Roitelet huppé;LC;-;NT;LC
+4001;Erithacus rubecula (Linnaeus, 1758);Rougegorge familier;LC;-;LC;LC
+4035;Phoenicurus ochruros (S. G. Gmelin, 1774);Rougequeue noir;LC;-;LC;LC
+4192;Acrocephalus palustris (Bechstein, 1798);Rousserolle verderolle;LC;-;LC;LC
+3774;Sitta europaea Linnaeus, 1758;Sittelle torchepot;LC;NT (pr. A2a) (-1);LC;LC
+3429;Streptopelia decaocto (Frivaldszky, 1838);Tourterelle turque;LC;-;LC;LC
+3967;Troglodytes troglodytes (Linnaeus, 1758);Troglodyte mignon;LC;-;LC;LC
+4603;Loxia curvirostra Linnaeus, 1758;Bec-croisé des sapins;DD;-;LC;LC
+2836;Elanus caeruleus (Desfontaines, 1789);Elanion blanc;DD;-;VU;LC
+199294;Bonasa bonasia (Linnaeus, 1758);Gélinotte des bois;DD;-;NT;LC
+2747;Branta canadensis (Linnaeus, 1758);Bernache du Canada;NAa;-;NAa;/
+2750;Branta leucopsis (Bechstein, 1803);Bernache nonnette;NAa;-;/;/
+2776;Aix galericulata (Linnaeus, 1758);Canard mandarin;NAa;-;NAa;/
+2702;Cygnus atratus (Latham, 1790);Cygne noir;NAa;-;/;/
+2823;Oxyura jamaicensis (Gmelin, 1789);Erismature rousse;NAa;-;NAa;/
+3000;Syrmaticus reevesii (J. E. Gray, 1829);Faisan vénéré;NAa;-;NAa;/
+2763;Alopochen aegyptiacus (Linnaeus, 1766);Ouette d’Égypte;NAa;-;NAa;LC
+2975;Alectoris rufa (Linnaeus, 1758);Perdrix rouge;NAa;-;LC;NT
+3448;Psittacula krameri (Scopoli, 1769);Perruche à collier;NAa;-;NAa;LC
+1973;Anas acuta Linnaeus, 1758;Canard pilet;NAb;-;NAb;VU
+1950;Anas penelope Linnaeus, 1758;Canard siffleur;NAb;-;NAb;LC
+2534;Philomachus pugnax (Linnaeus, 1758);Combattant varié;NAb;-;NAb;LC
+2808;Bucephala clangula (Linnaeus, 1758);Garrot à œil d'or;NAb;-;NT;LC
+459627;Chlidonias hybrida (Pallas, 1811);Guifette moustac;NAb;-;NAb;LC
+2508;Ardea purpurea Linnaeus, 1766;Héron pourpré;NAb;-;LC;LC
+3042;Porzana parva (Scopoli, 1769);Marouette poussin;NAb;-;CR;LC
+1984;Netta rufina (Pallas, 1773);Nette rousse;NAb;-;LC;LC
+2741;Anser anser (Linnaeus, 1758);Oie cendrée;NAb;-;VU;LC
+3489;Otus scops (Linnaeus, 1758);Petit-duc scops;NAb;-;LC;LC
+3716;Anthus petrosus (Montagu, 1798);Pipit maritime;NAb;-;NT;LC
+3798;Remiz pendulinus (Linnaeus, 1758);Rémiz penduline;NAb;-;CR;LC
+4616;Carpodacus erythrinus (Pallas, 1770);Roselin cramoisi;NAb;-;DD;LC
+4595;Carduelis flammea (Linnaeus, 1758);Sizerin flammé;NAb;-;VU;LC
+3364;Sterna dougallii Montagu, 1813;Sterne de Dougall;NAb;-;CR;LC
+4586;Carduelis spinus (Linnaeus, 1758);Tarin des aulnes;NAb;-;NT;LC
+2651;Hieraaetus pennatus (Gmelin, 1788);Aigle botté;NE;-;NT;LC
+2660;Pandion haliaetus (Linnaeus, 1758);Balbuzard pêcheur;NE;-;VU;LC
+2549;Gallinago media (Latham, 1787);Bécassine double;NE;-;NAb;LC
+3945;Motacilla alba yarrellii Gould, 1837;Bergeronnette de Yarrell;NE;-;/;/
+3745;Motacilla flava flavissima (Blyth, 1834);Bergeronnette flavéole;NE;-;/;/
+2616;Actitis hypoleucos (Linnaeus, 1758);Chevalier guignette;NE;-;NT;LC
+2873;Circaetus gallicus (Gmelin, 1788);Circaète Jean-le-blanc;NE;-;LC;LC
+2447;Phalacrocorax aristotelis (Linnaeus, 1760);Cormoran huppé;NE;-;LC;LC
+199414;Corvus cornix Linnaeus, 1758;Corneille mantelée;NE;-;LC;LC
+2005;Somateria mollissima (Linnaeus, 1758);Eider à duvet;NE;-;CR;EN
+1995;Aythya nyroca (Güldenstädt, 1770);Fuligule nyroca;NE;-;NAb;VU
+199374;Larus michahellis Naumann, 1840;Goéland leucophée;NE;-;LC;LC
+3379;Uria aalge (Pontoppidan, 1763);Guillemot de Troïl;NE;-;EN;LC
+4170;Locustella fluviatilis (Wolf, 1810);Locustelle fluviatile;NE;-;/;LC
+601183;Acridotheres tristis (Linnaeus, 1766);Martin-triste;NE;-;/;/
+4112;Turdus torquatus Linnaeus, 1758;Merle à plastron;NE;-;LC;LC
+4460;Lanius senator Linnaeus, 1758;Pie-grièche à tête rousse;NE;-;NT;NT
+199477;Phylloscopus ibericus Ticehurst, 1937;Pouillot ibérique;NE;-;VU;LC
+3345;Sterna paradisaea Pontoppidan, 1763;Sterne arctique;NE;-;CR;LC
+2770;Tadorna ferruginea (Pallas, 1764);Tadorne casarca;NE;-;NAa;LC

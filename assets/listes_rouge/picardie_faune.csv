@@ -1,0 +1,469 @@
+﻿ordre;CD_REF;CD_NOM;NOM_CITE;AUTEUR;NOMS_COMMUNS;POPULATION;RANG;FAMILLE;ENDEMISME;COMMENTAIRE;STATUT;CRITERES;TENDANCE;VERSION;STATUT_I;STATUT_EU;ANNEEEVAL;NOM_LISTE;TYPE_LISTE;GROUPE_GRAND_PUBLIC
+25;0;0;Bufo calamita  (Population hors littoral);;Crapaud calamite (Population hors littoral);;;;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;
+25;0;0;Hyla arborea  (Population hors littoral);;Rainette verte (Population hors littoral);;;;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;
+25;0;0;Pelodytes punctatus  (Population hors littoral);;Pelodyte ponctué (Population hors littoral);;;;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;
+25;0;0;Rhinolophus hipposideros (sous-population région naturelle du Vexin);;Petit rhinolophe (sous-population région naturelle du Vexin);;;;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;
+35;92;92;Salamandra salamandra;(Linnaeus, 1758);Salamandre tachetée;;ES;Salamandridae;;;NT;;;2016;VU;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;444430;121;Triturus alpestris;(Laurenti, 1768);Triton alpestre;;ES;Salamandridae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;444432;155;Triturus helveticus;(Razoumowsky, 1789);Triton palmé;;ES;Salamandridae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;197;197;Alytes obstetricans;(Laurenti, 1768);Alyte accoucheur;;ES;Alytidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+25;212;212;Bombina variegata;(Linnaeus, 1758);Sonneur à ventre jaune;;ES;Bombinatoridae;;;EN;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+30;252;252;Pelodytes punctatus;(Daudin, 1803);Pelodyte ponctué;;ES;Pelodytidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;259;259;Bufo bufo;(Linnaeus, 1758);Crapaud commun;;ES;Bufonidae;;;LC;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+30;459628;267;Bufo calamita;Laurenti, 1768;Crapaud calamite;;ES;Bufonidae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+30;281;281;Hyla arborea;(Linnaeus, 1758);Rainette verte;;ES;Hylidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;310;310;Rana dalmatina;Fitzinger in Bonaparte, 1838;Grenouille agile;;ES;Ranidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+45;444440;320;Rana esculenta;Linnaeus, 1758;Grenouille verte;;ES;Ranidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+45;444441;337;Rana lessonae;Camerano, 1882;Grenouille de Lessona;;ES;Ranidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+55;444443;342;Rana ridibunda;Pallas, 1771;Grenouille rieuse;;ES;Ranidae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+20;351;351;Rana temporaria;Linnaeus, 1758;Grenouille des champs;;ES;Ranidae;;;CR;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;351;351;Rana temporaria;Linnaeus, 1758;Grenouille rousse;;ES;Ranidae;;;LC;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;850;850;Larinioides patagiatus;(Clerck, 1758);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;899;899;Araneus sturmi;(Hahn, 1831);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;1054;1054;Uloborus plumipes;Lucas, 1846;;;ES;Uloboridae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;1058;1058;Hyptiotes paradoxus;(C.L. Koch, 1834);;;ES;Uloboridae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;1353;1353;Theridiosoma gemmosum;(L. Koch, 1877);;;ES;Theridiosomatidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;1526;1526;Pachygnatha listeri;Sundevall, 1830;;;ES;Tetragnathidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1529;1529;Tetragnatha montana;Simon, 1874;;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1530;1530;Tetragnatha extensa;(Linnaeus, 1758);;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;1532;1532;Tetragnatha obtusa;C.L. Koch, 1837;;;ES;Tetragnathidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1546;1546;Meta menardi;(Latreille, 1804);;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1550;1550;Argiope bruennichi;(Scopoli, 1772);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1556;1556;Agalenatea redii;(Scopoli, 1763);épeire de velours;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1558;1558;Araniella opisthographa;(Kulczyński, 1905);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1559;1559;Araniella cucurbitina;(Clerck, 1758);araignée courge épeire concombre;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1563;1563;Gibbaranea gibbosa;(Walckenaer, 1802);épeire à bosses;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;1564;1564;Gibbaranea bituberculata;(Walckenaer, 1802);épeire dromadaire;;ES;Araneidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;1571;1571;Neoscona adianta;(Walckenaer, 1802);Adiante fougère;;ES;Araneidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1574;1574;Nuctenea umbratica;(Clerck, 1758);épeire nocturne;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1576;1576;Singa hamata;(Clerck, 1758);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1580;1580;Cyclosa conica;(Pallas, 1772);épeire conique;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;1581;1581;Cyclosa oculata;(Walckenaer, 1802);;;ES;Araneidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1585;1585;Mangora acalypha;(Walckenaer, 1802);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;1587;1587;Zygiella atrica;(C.L. Koch, 1845);;;ES;Araneidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1595;1595;Araneus angulatus;Clerck, 1758;araignée anguleuse;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1597;1597;Araneus diadematus;Clerck, 1758;;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1598;1598;Araneus quadratus;Clerck, 1758;araignée à quatre points;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1600;1600;Araneus marmoreus;Clerck, 1758;;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;1882;1882;Pisaura mirabilis;(Clerck, 1758);;;ES;Pisauridae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;1884;1884;Dolomedes fimbriatus;(Clerck, 1758);;;ES;Pisauridae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;1885;1885;Dolomedes plantarius;(Clerck, 1758);;;ES;Pisauridae;;;EN;;;2016;VU;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;791564;11106;Stethorus punctillum;Weise, 1891;;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;11108;11108;Scymnus apetzi;Mulsant, 1846;;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;11110;11110;Scymnus auritus;Westman in Thunberg, 1795;;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;11112;11112;Scymnus ferrugatus;(Moll, 1785);;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;11113;11113;Scymnus frontalis;(Fabricius, 1787);;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11115;11115;Scymnus interruptus;(Goeze, 1777);;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11118;11118;Scymnus rubromaculatus;(Goeze, 1777);;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11122;11122;Scymnus suturalis;Westman in Thunberg, 1795;;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;11124;11124;Scymnus subvillosus;(Goeze, 1777);;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11131;11131;Chilocorus bipustulatus;(Linnaeus, 1758);Coccinelle des landes;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11133;11133;Chilocorus renipustulatus;(Scriba, 1791);Coccinelle des saules;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;791568;11135;Exochomus nigromaculatus;(Goeze, 1777);;;ES;Coccinellidae;;;CR*;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11138;11138;Coccidula rufa;(Herbst, 1783);Coccidule des marais;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;11139;11139;Coccidula scutellata;(Herbst, 1783);Coccidule tachée;;ES;Coccinellidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11141;11141;Rhyzobius chrysomeloides;(Herbst, 1792);Rhizobie des arbres;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11142;11142;Rhyzobius litura;(Fabricius, 1787);Rhizobie des friches;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;11144;11144;Hippodamia tredecimpunctata;(Linnaeus, 1758);Coccinelle à 13 points;;ES;Coccinellidae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11145;11145;Hippodamia variegata;(Goeze, 1777);Coccinelle des friches;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;791574;11147;Hippodamia undecimnotata;(Schneider, 1792);Coccinelle migrante;;ES;Coccinellidae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11152;11152;Adalia bipunctata;(Linnaeus, 1758);Coccinelle à 2 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11157;11157;Adalia decempunctata;(Linnaeus, 1758);Coccinelle à 10 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11165;11165;Coccinella septempunctata;Linnaeus, 1758;Coccinelle à 7 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11168;11168;Coccinella undecimpunctata;Linnaeus, 1758;Coccinelle à 11 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11173;11173;Harmonia quadripunctata;(Pontoppidan, 1763);Coccinelle à 4 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11186;11186;Anatis ocellata;(Linnaeus, 1758);Coccinelle ocellée;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11197;11197;Halyzia sedecimguttata;(Linnaeus, 1758);Grande coccinelle orange;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11202;11202;Vibidia duodecimguttata;(Poda, 1761);Petite coccinelle orange;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53221;53221;Pyrgus malvae;(Linnaeus, 1758);Hespérie de la mauve;;ES;Hesperiidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53229;53229;Pyrgus alveus;(Hübner, 1803);Hespérie du faux-buis;;ES;Hesperiidae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;53236;53236;Pyrgus armoricanus;(Oberthür, 1910);Hespérie des potentilles;;ES;Hesperiidae;;;CR*;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;53242;53242;Pyrgus serratulae;(Rambur, 1839);Hespérie de l'alchémille;;ES;Hesperiidae;;;CR*;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;53269;53269;Spialia sertorius;(Hoffmannsegg, 1804);Hespérie des sanguisorbes;;ES;Hesperiidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53291;53291;Carcharodus alceae;(Esper, 1780);Hespérie de l'alcée Grisette;;ES;Hesperiidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53307;53307;Erynnis tages;(Linnaeus, 1758);Point-de-Hongrie;;ES;Hesperiidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;53312;53312;Heteropterus morpheus;(Pallas, 1771);Miroir;;ES;Hesperiidae;;;VU;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;53315;53315;Carterocephalus palaemon;(Pallas, 1771);Echiquier Hespérie du Brome;;ES;Hesperiidae;;;VU;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;53320;53320;Thymelicus acteon;(Rottemburg, 1775);Hespérie du chiendent;;ES;Hesperiidae;;;VU;;;2016;;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;53332;53332;Hesperia comma;(Linnaeus, 1758);Virgule Comma;;ES;Hesperiidae;;;VU;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;219740;53337;Ochlodes venatus;auct non (Bremer & Grey, 1853);Sylvaine;;ES;Hesperiidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;53370;53370;Arethusana arethusa;(Denis & Schiffermüller, 1775);Mercure Petit agreste;;ES;Nymphalidae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53376;53376;Hipparchia fagi;(Scopoli, 1763);Sylvandre;;ES;Nymphalidae;;;RE;;;2016;NT;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;53391;53391;Hipparchia semele;(Linnaeus, 1758);Agreste;;ES;Nymphalidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53425;53425;Chazara briseis;(Linnaeus, 1764);Hermite;;ES;Nymphalidae;;;RE;;;2016;;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53483;53483;Erebia aethiops;(Esper, 1777);Moiré sylvicole;;ES;Nymphalidae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;53487;53487;Erebia medusa;(Denis & Schiffermüller, 1775);Moiré franconien;;ES;Nymphalidae;;;CR;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53595;53595;Pararge aegeria;(Linnaeus, 1758);Tircis;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;53604;53604;Lasiommata megera;(Linnaeus, 1767);Mégère;;ES;Nymphalidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;53609;53609;Lasiommata maera;(Linnaeus, 1758);Némusien Ariane;;ES;Nymphalidae;;;DD;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53615;53615;Lopinga achine;(Scopoli, 1763);Bacchante;;ES;Nymphalidae;;;RE;;;2016;;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53623;53623;Coenonympha pamphilus;(Linnaeus, 1758);Fadet commun Procris;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53631;53631;Coenonympha tullia;(O.F. Müller, 1764);Fadet des tourbières;;ES;Nymphalidae;;;RE;;;2016;;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53651;53651;Coenonympha hero;(Linnaeus, 1761);Fadet de l'élyme;;ES;Nymphalidae;;;RE;;;2016;;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53661;53661;Coenonympha arcania;(Linnaeus, 1761);Céphale;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;53663;53663;Coenonympha glycerion;(Borkhausen, 1788);Fadet de la mélique;;ES;Nymphalidae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53668;53668;Maniola jurtina;(Linnaeus, 1758);Myrtil;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53700;53700;Melanargia galathea;(Linnaeus, 1758);Demi-deuil;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53724;53724;Araschnia levana;(Linnaeus, 1758);Carte géographique;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53727;53727;Nymphalis polychloros;(Linnaeus, 1758);Grande tortue;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;53733;53733;Nymphalis antiopa;(Linnaeus, 1758);Morio;;ES;Nymphalidae;;;NA;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;608364;53736;Inachis io;(Linnaeus, 1758);Paon du jour;;ES;Nymphalidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53741;53741;Vanessa atalanta;(Linnaeus, 1758);Vulcain;;ES;Nymphalidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53747;53747;Vanessa cardui;(Linnaeus, 1758);Belle dame;;ES;Nymphalidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53754;53754;Aglais urticae;(Linnaeus, 1758);Petite Tortue;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53759;53759;Polygonia c-album;(Linnaeus, 1758);Robert-le-diable C blanc;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;53765;53765;Limenitis populi;(Linnaeus, 1758);Grand sylvain;;ES;Nymphalidae;;;CR*;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53767;53769;Azuritis reducta;(Staudinger, 1901);Sylvain azuré;;ES;Nymphalidae;;;RE;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53770;53770;Limenitis camilla;(Linnaeus, 1764);Petit sylvain;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;53783;53783;Apatura ilia;(Denis & Schiffermüller, 1775);Petit Mars changeant;;ES;Nymphalidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;53786;53786;Apatura iris;(Linnaeus, 1758);Grand mars changeant;;ES;Nymphalidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;53794;53796;Didymaeformia didyma;(Esper, 1778);Mélitée orangée;;ES;Nymphalidae;;;CR;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;53811;53813;Cinclidia phoebe;(Denis & Schiffermüller, 1775);Mélitée des centaurées Grand damier;;ES;Nymphalidae;;;CR;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;53817;53817;Melitaea cinxia;(Linnaeus, 1758);Mélitée du plantain;;ES;Nymphalidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;53821;53821;Melitaea diamina;(Lang, 1789);Mélitée noirâtre Damier noir;;ES;Nymphalidae;;;CR;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;219812;53827;Mellicta athalia;(Rottemburg, 1775);Mélitée du mélampyre;;ES;Nymphalidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;219810;53837;Mellicta parthenoides;(Keferstein, 1851);Mélitée des scabieuses;;ES;Nymphalidae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;53856;53856;Euphydryas maturna;(Linnaeus, 1758);Damier du frêne;;ES;Nymphalidae;;;RE;;;2016;DD;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;53865;53865;Euphydryas aurinia;(Rottemburg, 1775);Damier de la succise;;ES;Nymphalidae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53878;53878;Argynnis paphia;(Linnaeus, 1758);Tabac d'Espagne;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;219822;53895;Fabriciana niobe;(Linnaeus, 1758);Chiffre;;ES;Nymphalidae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;219821;53902;Fabriciana adippe;(Denis & Schiffermüller, 1775);Moyen nacré;;ES;Nymphalidae;;;CR*;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53908;53908;Issoria lathonia;(Linnaeus, 1758);Petit nacré;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;53915;53915;Brenthis ino;(Rottemburg, 1775);Nacré de la sanguisorbe Nacré de la reine des prés;;ES;Nymphalidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;219817;53938;Clossiana selene;(Denis & Schiffermüller, 1775);Petit collier argenté;;ES;Nymphalidae;;;CR;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;219818;53942;Clossiana dia;(Linnaeus, 1767);Petite violette;;ES;Nymphalidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;53969;53969;Hamearis lucina;(Linnaeus, 1758);Lucine;;ES;Riodinidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;53973;53973;Lycaena phlaeas;(Linnaeus, 1761);Cuivré commun;;ES;Lycaenidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;53979;53979;Lycaena dispar;(Haworth, 1802);Cuivré des marais;;ES;Lycaenidae;;;NT;;;2016;LR/nt;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;219751;53985;Heodes tityrus;(Poda, 1761);Cuivré fuligineux;;ES;Lycaenidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;219753;54001;Paleochrysophanus hippothoe;(Linnaeus, 1761);Cuivré écarlate;;ES;Lycaenidae;;;CR;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;54021;54021;Lampides boeticus;(Linnaeus, 1767);Azuré porte-queue;;ES;Lycaenidae;;;NA;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;54029;54029;Cupido minimus;(Fuessly, 1775);Argus frêle;;ES;Lycaenidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54052;54052;Celastrina argiolus;(Linnaeus, 1758);Azuré des nerpruns;;ES;Lycaenidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;54055;54055;Pseudophilotes baton;(Bergsträsser, 1779);Azuré du thym;;ES;Lycaenidae;;;CR;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;54075;54075;Glaucopsyche alexis;(Poda, 1761);Azuré des cytises Argus bleu-violet;;ES;Lycaenidae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;54080;54082;Maculinea alcon alcon;(Denis & Schiffermüller, 1775);Azuré des mouillères;;SSES;Lycaenidae;;;RE;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;54080;54083;Maculinea alcon rebeli;(Hirschke, 1904);Azuré de la croisette;;SSES;Lycaenidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;54085;54085;Maculinea arion;(Linnaeus, 1758);Azuré du serpolet;;ES;Lycaenidae;;;CR;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;54105;54105;Plebejus argus;(Linnaeus, 1758);Azuré de l'Ajonc;;ES;Lycaenidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;54170;54170;Plebejus argyrognomon;(Bergsträsser, 1779);Azuré des coronilles;;ES;Lycaenidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;54213;54213;Cyaniris semiargus;(Rottemburg, 1775);Demi-argus Azuré des anthyllides;;ES;Lycaenidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54279;54279;Polyommatus icarus;(Rottemburg, 1775);Azuré de la bugrane Azuré commun;;ES;Lycaenidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54307;54307;Callophrys rubi;(Linnaeus, 1758);Thécla de la ronce;;ES;Lycaenidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54319;54319;Thecla betulae;(Linnaeus, 1758);Thécla du bouleau;;ES;Lycaenidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;54339;54339;Aporia crataegi;(Linnaeus, 1758);Gazé;;ES;Pieridae;;;CR;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54342;54342;Pieris brassicae;(Linnaeus, 1758);Piéride du chou;;ES;Pieridae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;54362;54362;Pontia daplidice;(Linnaeus, 1758);Piéride du réséda;;ES;Pieridae;;;NA;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54376;54376;Leptidea sinapis;(Linnaeus, 1758);Piéride de la moutarde Piéride du lotier;;ES;Pieridae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;54384;54384;Colias hyale;(Linnaeus, 1758);Soufré;;ES;Pieridae;;;DD;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54417;54417;Gonepteryx rhamni;(Linnaeus, 1758);Citron;;ES;Pieridae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54451;54451;Anthocharis cardamines;(Linnaeus, 1758);Aurore;;ES;Pieridae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54468;54468;Papilio machaon;Linnaeus, 1758;Machaon;;ES;Papilionidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;54475;54475;Iphiclides podalirius;(Linnaeus, 1758);Flambé;;ES;Papilionidae;;;DD;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;60038;60038;Sorex minutus;Linnaeus, 1766;Musaraigne pygmée;;ES;Soricidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;60062;60062;Sorex araneus;Linnaeus, 1758;Musaraigne carrelet;;ES;Soricidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60102;60102;Sorex coronatus;Millet, 1828;Musaraigne couronnée;;ES;Soricidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;60127;60127;Neomys fodiens;(Pennant, 1771);Musaraigne aquatique;;ES;Soricidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;60176;60176;Crocidura leucodon;(Hermann, 1780);Musaraigne bicolore;;ES;Soricidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60205;60205;Crocidura russula;(Hermann, 1780);Musaraigne musette;;ES;Soricidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60249;60249;Talpa europaea;Linnaeus, 1758;Taupe d'Europe;;ES;Talpidae;;;LC;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+30;60295;60295;Rhinolophus ferrumequinum;(Schreber, 1774);Grand rhinolophe;;ES;Rhinolophidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+20;60313;60313;Rhinolophus hipposideros (sous-population vallée de l'Authie);(Borkhausen, 1797);Petit rhinolophe (sous-population vallée de l'Authie);;;;;;CR;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;60313;60313;Rhinolophus hipposideros;(Borkhausen, 1797);Petit rhinolophe;;ES;Rhinolophidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+25;60345;60345;Barbastella barbastellus;(Schreber, 1774);Barbastelle d'Europe;;ES;Vespertilionidae;;;EN;;;2016;NT;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;60360;60360;Eptesicus serotinus;(Schreber, 1774);Sérotine commune;;ES;Vespertilionidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60383;60383;Myotis mystacinus;(Kuhl, 1817);Murin à moustaches;;ES;Vespertilionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60400;60400;Myotis emarginatus;(É. Geoffroy Saint-Hilaire, 1806);Murin à oreilles échancrées;;ES;Vespertilionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60408;60408;Myotis nattereri;(Kuhl, 1817);Murin de Natterer;;ES;Vespertilionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+25;60418;60418;Myotis myotis;(Borkhausen, 1797);Grand murin;;ES;Vespertilionidae;;;EN;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+19;60447;60447;Myotis dasycneme;(Boie, 1825);Murin des marais;;ES;Vespertilionidae;;;CR*;;;2016;NT;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;60461;60461;Nyctalus leisleri;(Kuhl, 1817);Noctule de Leisler;;ES;Vespertilionidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+30;60468;60468;Nyctalus noctula;(Schreber, 1774);Noctule commune;;ES;Vespertilionidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60479;60479;Pipistrellus pipistrellus;(Schreber, 1774);Pipistrelle commune;;ES;Vespertilionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;60489;60489;Pipistrellus pygmaeus;(Leach, 1825);Pipistrelle pygmée;;ES;Vespertilionidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;60490;60490;Pipistrellus nathusii;(Keyserling & Blasius, 1839);Pipistrelle de Nathusius;;ES;Vespertilionidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;60518;60518;Plecotus auritus;(Linnaeus, 1758);Oreillard roux;;ES;Vespertilionidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;60527;60527;Plecotus austriacus;(J. B. Fischer, 1829);Oreillard gris;;ES;Vespertilionidae;;;DD;;;2016;NT;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+15;60577;60577;Canis lupus;Linnaeus, 1758;Loup;;ES;Canidae;;;RE;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+55;60582;60582;Nyctereutes procyonoides;(Gray, 1834);Chien viverrin;;ES;Canidae;;;NA;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60585;60585;Vulpes vulpes;(Linnaeus, 1758);Renard roux;;ES;Canidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+15;60630;60630;Lutra lutra;(Linnaeus, 1758);Loutre d'Europe;;ES;Mustelidae;;;RE;;;2016;NT;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60636;60636;Meles meles;(Linnaeus, 1758);Blaireau d'Europe;;ES;Mustelidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;60658;60658;Martes martes;(Linnaeus, 1758);Martre;;ES;Mustelidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60674;60674;Martes foina;(Erxleben, 1777);Fouine;;ES;Mustelidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;60686;60686;Mustela erminea;Linnaeus, 1758;Hermine;;ES;Mustelidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60716;60716;Mustela nivalis;Linnaeus, 1766;Belette;;ES;Mustelidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60731;60731;Mustela putorius;Linnaeus, 1758;Putois;;ES;Mustelidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+55;60822;60822;Procyon lotor;(Linnaeus, 1758);Raton laveur;;ES;Procyonidae;;;NA;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;60981;60981;Sus scrofa;Linnaeus, 1758;Sanglier;;ES;Suidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61000;61000;Cervus elaphus;Linnaeus, 1758;Cerf élaphe;;ES;Cervidae;;;LC;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+55;61028;61028;Dama dama;(Linnaeus, 1758);Daim;;ES;Cervidae;;;NA;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+55;199194;61115;Ovis musimon;(Pallas, 1811);Mouflon de Corse;;ES;Bovidae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61153;61153;Sciurus vulgaris;Linnaeus, 1758;Écureuil roux;;ES;Sciuridae;;;LC;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+55;61204;61204;Tamias sibiricus;(Laxmann, 1769);Tamia de Sibérie;;ES;Sciuridae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+20;61212;61212;Castor fiber;Linnaeus, 1758;Castor;;ES;Castoridae;;;CR;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+25;61258;61258;Arvicola sapidus;Miller, 1908;Campagnol amphibie;;ES;Cricetidae;;;EN;;;2016;VU;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;61260;61260;Arvicola terrestris;(Linnaeus, 1758);Campagnol terrestre aquatique;;ES;Cricetidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;61275;61275;Arvicola scherman;(Shaw, 1801);Campagnol de Scherman;;ES;Cricetidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61290;61290;Clethrionomys glareolus;(Schreber, 1780);Campagnol roussâtre;;ES;Muridae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61357;61357;Microtus agrestis;(Linnaeus, 1761);Campagnol agreste;;ES;Cricetidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61379;61379;Microtus arvalis;(Pallas, 1778);Campagnol des champs;;ES;Cricetidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61425;61425;Microtus subterraneus;(de Sélys-Longchamps, 1836);Campagnol souterrain;;ES;Cricetidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+55;61448;61448;Ondatra zibethicus;(Linnaeus, 1766);Rat musqué;;ES;Cricetidae;;;NA;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61498;61498;Apodemus flavicollis;(Melchior, 1834);Mulot à collier roux;;ES;Muridae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61510;61510;Apodemus sylvaticus;(Linnaeus, 1758);Mulot sylvestre;;ES;Muridae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61543;61543;Micromys minutus;(Pallas, 1771);Rat des moissons;;ES;Muridae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61568;61568;Mus musculus;Linnaeus, 1758;Souris domestique;;ES;Muridae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+55;61585;61585;Rattus norvegicus;(Berkenhout, 1769);Rat surmulot;;ES;Muridae;;;NA;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;61587;61587;Rattus rattus;(Linnaeus, 1758);Rat noir;;ES;Muridae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61618;61618;Eliomys quercinus;(Linnaeus, 1766);Lérot;;ES;Gliridae;;;LC;;;2016;NT;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+35;61636;61636;Muscardinus avellanarius;(Linnaeus, 1758);Muscardin;;ES;Gliridae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;61648;61648;Glis glis;(Linnaeus, 1766);Loir gris;;ES;Gliridae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+55;61667;61667;Myocastor coypus;(Molina, 1782);Ragondin;;ES;Myocastoridae;;;NA;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61678;61675;Lepus capensis;auct.;Lièvre d'Europe;;ES;Leporidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;61714;61714;Oryctolagus cuniculus;(Linnaeus, 1758);Lapin de garenne;;ES;Leporidae;;;LC;;;2016;EN;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;65080;65080;Calopteryx virgo;(Linnaeus, 1758);Caloptéryx vierge;;ES;Calopterygidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65101;65101;Pyrrhosoma nymphula;(Sulzer, 1776);Agrion au corps de feu;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65109;65109;Ischnura elegans;(Vander Linden, 1820);Agrion élégant;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65115;65115;Ischnura pumilio;(Charpentier, 1825);Agrion nain;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;645873;65123;Cercion lindenii;(Selys-Longchamps, 1840);Agrion à longs cercoïdes;;ES;Coenagrionidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65131;65131;Coenagrion scitulum;(Rambur, 1842);Agrion mignon;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;65133;65133;Coenagrion mercuriale;(Charpentier, 1840);Agrion de Mercure;;ES;Coenagrionidae;;;VU;;;2016;VU;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65141;65141;Coenagrion puella;(Linnaeus, 1758);Agrion jouvencelle;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;65145;65145;Coenagrion pulchellum;(Vander Linden, 1825);Agrion gracieux;;ES;Coenagrionidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65155;65155;Enallagma cyathigerum;(Charpentier, 1840);Agrion porte coupe;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65161;65161;Erythromma najas;(Hansemann, 1823);Agrion à yeux rouges;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65165;65165;Erythromma viridulum;(Charpentier, 1840);Agrion vert;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65184;65184;Platycnemis pennipes;(Pallas, 1771);Agrion à larges pattes;;ES;Platycnemididae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65192;65192;Sympecma fusca;(Vander Linden, 1820);Leste brun;;ES;Lestidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;65199;65199;Lestes barbarus;(Fabricius, 1798);Leste sauvage;;ES;Lestidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;65204;65204;Lestes virens vestalis;Rambur, 1842;Leste verdoyant;;SSES;Lestidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;65208;65208;Lestes sponsa;(Hansemann, 1823);Leste fiancé;;ES;Lestidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;65214;65214;Lestes dryas;Kirby, 1890;Leste dryade;;ES;Lestidae;;;EN;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65219;65219;Chalcolestes viridis;(Vander Linden, 1825);Leste vert;;ES;Lestidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;65225;65225;Gomphus vulgatissimus;(Linnaeus, 1758);Gomphe très commun;;ES;Gomphidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65227;65227;Gomphus pulchellus;Selys, 1840;Gomphe gentil;;ES;Gomphidae;;;LC;;;2016;NT;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;65249;65249;Onychogomphus forcipatus;(Linnaeus, 1758);Gomphe à pinces;;ES;Gomphidae;;;VU;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65262;65262;Libellula depressa;Linnaeus, 1758;Libellule déprimée;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65265;65265;Libellula fulva;O.F. Müller, 1764;Libellule fauve;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65271;65271;Libellula quadrimaculata;Linnaeus, 1758;Libellule à quatre taches;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65278;65278;Orthetrum cancellatum;(Linnaeus, 1758);Orthétrum réticulé;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;65282;65282;Orthetrum albistylum;(Selys, 1848);Orthétrum à stylets blancs;;ES;Libellulidae;;;NA;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65290;65290;Orthetrum brunneum;(Boyer de Fonscolombe, 1837);Orthétrum brun;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65300;65300;Crocothemis erythraea;(Brullé, 1832);Libellule écarlate;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;65308;65308;Sympetrum pedemontanum;(O.F. Müller in Allioni, 1766);Sympétrum du Piémont;;ES;Libellulidae;;;NA;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;65312;65312;Sympetrum danae;(Sulzer, 1776);Sympétrum noir;;ES;Libellulidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65322;65322;Sympetrum sanguineum;(O.F. Müller, 1764);Sympétrum rouge sang;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;65327;65327;Sympetrum flaveolum;(Linnaeus, 1758);Sympétrum jaune;;ES;Libellulidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65335;65335;Sympetrum fonscolombii;(Selys, 1840);Sympétrum à nervures rouges;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65339;65339;Sympetrum meridionale;(Selys, 1841);Sympétrum méridional;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65344;65344;Sympetrum striolatum;(Charpentier, 1840);Sympétrum à côtés striés;;ES;Libellulidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;65348;65348;Sympetrum vulgatum;(Linnaeus, 1758);Sympétrum commun;;ES;Libellulidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;65356;65356;Leucorrhinia pectoralis;(Charpentier, 1825);Leucorrhine à gros thorax;;ES;Libellulidae;;;CR;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;65358;65358;Leucorrhinia rubicunda;(Linnaeus, 1758);Leucorrhine rubiconde;;ES;Libellulidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;65361;65361;Leucorrhinia caudalis;(Charpentier, 1840);Leucorrhine à large queue;;ES;Libellulidae;;;EN;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65376;65376;Cordulia aenea;(Linnaeus, 1758);Cordulie bronzée;;ES;Corduliidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;65381;65381;Oxygastra curtisii;(Dale, 1834);Cordulie à corps fin;;ES;Corduliidae;;;NT;;;2016;LC;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;65387;65387;Epitheca bimaculata;(Charpentier, 1825);Cordulie à deux taches;;ES;Corduliidae;;;EN;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;65393;65393;Somatochlora metallica;(Vander Linden, 1825);Cordulie métallique;;ES;Corduliidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;65395;65395;Somatochlora flavomaculata;(Vander Linden, 1825);Cordulie à taches jaunes;;ES;Corduliidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;65397;65397;Somatochlora arctica;(Zetterstedt, 1840);Cordulie arctique;;ES;Corduliidae;;;NA;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;65415;65415;Brachytron pratense;(O.F. Müller, 1764);Aeschne printanière;;ES;Aeshnidae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65440;65440;Aeshna cyanea;(O.F. Müller, 1764);Aeschne bleue;;ES;Aeshnidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65446;65446;Aeshna grandis;(Linnaeus, 1758);Grande aeschne;;ES;Aeshnidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65451;65451;Aeshna mixta;Latreille, 1805;Aeschne mixte;;ES;Aeshnidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65456;65454;Aeschna affinis;Stephens, 1836;Aeschne affine;;ES;Aeshnidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;65467;65467;Hemianax ephippiger;(Burmeister, 1839);Anax porte selle;;ES;Aeshnidae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65473;65473;Anax imperator;Leach, 1815;Anax empereur;;ES;Aeshnidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65477;65477;Anax parthenope;(Selys, 1839);Anax napolitain;;ES;Aeshnidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;65487;65487;Stethophyma grossum;(Linnaeus, 1758);Criquet ensanglanté;;ES;Acrididae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65613;65613;Phaneroptera falcata;(Poda, 1761);Phaneroptère porte-faux;;ES;Tettigoniidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65614;65614;Phaneroptera nana;Fieber, 1853;Phanéroptère méridional;;ES;Tettigoniidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65636;65636;Leptophyes punctatissima;(Bosc, 1792);Leptophye ponctuée;;ES;Tettigoniidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;535823;65649;Ephippiger ephippiger;auct. non (Fiebig, 1784);Ephippigère des vignes;;ES;Tettigoniidae;;;CR;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;65687;65687;Decticus verrucivorus;(Linnaeus, 1758);Dectique verrucivore;;ES;Tettigoniidae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;65697;65697;Platycleis albopunctata;(Goeze, 1778);Decticelle chagrinée;;ES;Tettigoniidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;837838;65711;Platycleis tessellata;(Charpentier, 1825);Decticelle carroyée;;ES;Tettigoniidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;65718;65718;Metrioptera brachyptera;(Linnaeus, 1761);Decticelle des bruyères;;ES;Tettigoniidae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;536050;65721;Metrioptera bicolor;(Philippi, 1830);Decticelle bicolore;;ES;Tettigoniidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;593264;65722;Metrioptera roeselii;(Hagenbach, 1822);Decticelle bariolée;;ES;Tettigoniidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65740;65740;Pholidoptera griseoaptera;(De Geer, 1773);Decticelle cendrée;;ES;Tettigoniidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65774;65774;Tettigonia viridissima;(Linnaeus, 1758);Grande sauterelle verte;;ES;Tettigoniidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65839;65839;Mantis religiosa;(Linnaeus, 1758);Mante religieuse;;ES;Mantidae;;;LC;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65877;65877;Conocephalus fuscus;(Fabricius, 1793);Conocéphale bigarré;;ES;Tettigoniidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;65878;65878;Conocephalus dorsalis;(Latreille, 1804);Conocéphale des roseaux;;ES;Tettigoniidae;;;VU;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65882;65882;Ruspolia nitidula;(Scopoli, 1786);Conocéphale gracieux;;ES;Tettigoniidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65889;65889;Meconema thalassinum;(De Geer, 1773);Méconème tambourinaire;;ES;Tettigoniidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65891;65891;Meconema meridionale;A. Costa, 1860;Méconème fragile;;ES;Tettigoniidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;65899;65899;Gryllotalpa gryllotalpa;(Linnaeus, 1758);Courtillière commune;;ES;Gryllotalpidae;;;VU;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65910;65910;Gryllus campestris;Linnaeus, 1758;Grillon champêtre;;ES;Gryllidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;65918;65918;Acheta domesticus;(Linnaeus, 1758);Grillon domestique;;ES;Gryllidae;;;NA;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65932;65932;Nemobius sylvestris;(Bosc, 1792);Grillon des bois;;ES;Trigonidiidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65944;65944;Oecanthus pellucens;(Scopoli, 1763);Grillon d'Italie;;ES;Gryllidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65988;65988;Apterygida media;(Hagenbach, 1822);;;ES;Forficulidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;65991;65991;Forficula auricularia;Linnaeus, 1758;Perce-oreille commun;;ES;Forficulidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;66001;66001;Labidura riparia;(Pallas, 1773);;;ES;Labiduridae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;66007;66007;Labia minor;(Linnaeus, 1758);;;ES;Spongiphoridae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;66017;66017;Clonopsis gallica;(Charpentier, 1825);;;ES;Bacillidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66030;66030;Tetrix ceperoi;(Bolívar, 1887);Tetrix des vasières;;ES;Tetrigidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66032;66032;Tetrix subulata;(Linnaeus, 1758);Tetrix riverain;;ES;Tetrigidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66036;66036;Tetrix undulata;(Sowerby, 1806);Tetrix forestier;;ES;Tetrigidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66077;66077;Chrysochraon dispar;(Germar, 1834);Criquet des clairières;;ES;Acrididae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;66085;66085;Omocestus haemorrhoidalis;(Charpentier, 1825);Criquet rouge-queue;;ES;Acrididae;;;CR;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;66088;66088;Omocestus rufipes;(Zetterstedt, 1821);Criquet noir-ébène;;ES;Acrididae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;66090;66090;Omocestus viridulus;(Linnaeus, 1758);Criquet verdelet;;ES;Acrididae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;66100;66100;Stenobothrus lineatus;(Panzer, 1796);Criquet de Palène;;ES;Acrididae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;66102;66102;Stenobothrus nigromaculatus;(Herrich-Schäffer, 1840);Criquet bourdonneur;;ES;Acrididae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;66103;66103;Stenobothrus stigmaticus;(Rambur, 1838);Stenobothre nain;;ES;Acrididae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66114;66114;Gomphocerippus rufus;(Linnaeus, 1758);Gomphocère roux;;ES;Acrididae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;66121;66121;Myrmeleotettix maculatus;(Thunberg, 1815);Gomphocère tacheté;;ES;Acrididae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;66134;66134;Chorthippus vagans;(Eversmann, 1848);Criquet des pins;;ES;Acrididae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;66136;66136;Chorthippus mollis;(Charpentier, 1825);Criquet des jachères;;ES;Acrididae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66138;66138;Chorthippus brunneus;(Thunberg, 1815);Criquet duettiste;;ES;Acrididae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66141;66141;Chorthippus biguttulus;(Linnaeus, 1758);Criquet mélodieux;;ES;Acrididae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66157;66157;Chorthippus albomarginatus;(De Geer, 1773);Criquet marginé;;ES;Acrididae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66159;66159;Chorthippus dorsatus;(Zetterstedt, 1821);Criquet verte-échine;;ES;Acrididae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;837869;66161;Chorthippus parallelus;(Zetterstedt, 1821);Criquet des pâtures;;ES;Acrididae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;837913;66165;Chorthippus montanus;(Charpentier, 1825);Criquet palustre;;ES;Acrididae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66173;66173;Euchorthippus declivus;(Brisout de Barneville, 1848);Criquet des mouillères;;ES;Acrididae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66194;66194;Oedipoda caerulescens;(Linnaeus, 1758);Oedipode turquoise;;ES;Acrididae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;66201;66201;Sphingonotus caerulans caerulans;(Linnaeus, 1767);Oedipode aigue-marine;;SSES;Acrididae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;66214;66214;Aiolopus thalassinus;(Fabricius, 1781);Oedipode émeraudine;;ES;Acrididae;;;DD;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;66268;66268;Calliptamus italicus;(Linnaeus, 1758);Criquet italien;;ES;Acrididae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;77352;77352;Lepidochelys kempii;(Garman, 1880);Tortue de Kemp;;ES;Cheloniidae;;;NA;;;2016;CR;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+55;77367;77367;Dermochelys coriacea;(Vandellius, 1761);Tortue luth;;ES;Dermochelyidae;;;NA;;;2016;VU;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+55;77367;77367;Dermochelys coriacea;(Vandellius, 1761);(vide);;ES;Dermochelyidae;;;NA;;;2016;VU;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+55;77381;77381;Emys orbicularis;(Linnaeus, 1758);Cistude d'Europe;;ES;Emydidae;;;NA;;;2016;LR/nt;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+55;77424;77424;Trachemys scripta;(Schoepff, 1792);Tortue de Floride;;ES;Emydidae;;;NA;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+55;77433;77433;Testudo hermanni;Gmelin, 1789;Tortue d'Hermann;;ES;Testudinidae;;;NA;;;2016;NT;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;77490;77490;Anguis fragilis;Linnaeus, 1758;Orvet;;ES;Anguidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+30;77600;77600;Lacerta agilis;Linnaeus, 1758;Lézard agile ou des souches;;ES;Lacertidae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;79278;77692;Lacerta vivipara;Jacquin, 1787;Lézard vivipare;;ES;Lacertidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;77756;77758;Lacerta muralis;(Laurenti, 1768);Lézard des murailles;;ES;Lacertidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+30;77955;77955;Coronella austriaca;Laurenti, 1768;Coronelle lisse;;ES;Colubridae;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+45;444446;77993;Elaphe longissima;(Laurenti, 1768);Couleuvre d'Esculape;;ES;Colubridae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;78064;78064;Natrix natrix;auct. non (Linnaeus, 1758);Couleuvre à collier;;ES;Natricidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+25;78141;78143;Coluber berus;Linnaeus, 1758;Vipère péliade;;ES;Viperidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+30;139;79256;Triturus cristatus;(Laurenti, 1768);Triton crêté;;ES;Salamandridae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+45;79299;79299;Myotis alcathoe;Helversen & Heller, 2001;Murin d'Alcathoe;;ES;Vespertilionidae;;;DD;;;2016;DD;DD;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;79299;79299;Myotis alcathoe;Helversen & Heller, 2001;Murin d'Alcathoe;;ES;Vespertilionidae;;;DD;;;2016;DD;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;79300;79300;Myotis brandtii;(Eversmann, 1845);Murin de Brandt;;ES;Vespertilionidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+30;79301;79301;Myotis bechsteinii;(Kuhl, 1817);Murin de Bechstein;;ES;Vespertilionidae;;;VU;;;2016;NT;VU;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+45;79303;79303;Pipistrellus kuhlii;(Natterer in Kuhl, 1817);Pipistrelle de Kuhl;;ES;Vespertilionidae;;;DD;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+25;79306;79306;Felis silvestris;Schreber, 1775;Chat sauvage;;ES;Felidae;;;EN;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;159432;159432;Erinaceus europaeus europaeus;Linnaeus, 1758;Hérisson d'Europe;;SSES;Erinaceidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+30;0;162678;Lacerta viridis;;Lézard vert;;;;;;VU;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;
+25;199909;199680;Aeshna isoceles isosceles;(Müller, 1767);Aeschne isoscèle;;SSES;Aeshnidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;199685;199685;Cordulegaster bidentata;Selys, 1843;Cordulégastre bidenté;;ES;Cordulegastridae;;;NA;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;199686;199686;Cordulegaster boltonii boltonii;(Donovan, 1807);Cordulégastre annelé;;SSES;Cordulegastridae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;199690;199690;Orthetrum coerulescens coerulescens;(Fabricius, 1798);Orthétrum bleuissant;;SSES;Libellulidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;199975;199975;Capreolus capreolus capreolus;(Linnaeus, 1758);Chevreuil;;SSES;Cervidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;200118;200118;Myotis daubentonii;(Kuhl, 1817);Murin de Daubenton;;ES;Vespertilionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Mammifères
+40;219741;219741;Thymelicus lineola;(Ochsenheimer, 1808);Hespérie du dactyle;;ES;Hesperiidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;219742;219742;Thymelicus sylvestris;(Poda, 1761);Hespérie de la Houlque Bande noire;;ES;Hesperiidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;219743;219743;Pyrgus carthami;(Hübner, 1813);Hespérie du carthame;;ES;Hesperiidae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;219750;219750;Lycaena virgaureae;(Linnaeus, 1758);Cuivré de la verge d'or;;ES;Lycaenidae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54322;219754;Neozephyrus quercus;(Linnaeus, 1758);Thécla du chêne;;ES;Lycaenidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;219755;219755;Satyrium w-album;(Knoch, 1782);Thécla de l'orme W blanc;;ES;Lycaenidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;219756;219756;Satyrium pruni;(Linnaeus, 1758);Thécla du prunier Thécla du coudrier;;ES;Lycaenidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;219758;219758;Satyrium ilicis;(Esper, 1779);Thécla de l'yeuse;;ES;Lycaenidae;;;EN;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;219760;219760;Satyrium acaciae;(Fabricius, 1787);Thécla de l'acacia;;ES;Lycaenidae;;;NA;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;219765;219765;Polyommatus thersites;(Cantener, 1835);Azuré de l'esparcette;;ES;Lycaenidae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;54271;219767;Polyommatus bellargus;(Rottemburg, 1775);Azuré bleu céleste;;ES;Lycaenidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;54265;219768;Polyommatus coridon;(Poda, 1761);Argus bleu-nacré;;ES;Lycaenidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;219793;219793;Cupido argiades;(Pallas, 1771);Azuré du trèfle;;ES;Lycaenidae;;;CR*;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;219796;219796;Cacyreus marshalli;Butler, 1898;Brun du pélargonium;;ES;Lycaenidae;;;NA;;;2016;LC;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;219799;219799;Aphantopus hyperantus;(Linnaeus, 1758);Tristan;;ES;Nymphalidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;219806;219806;Hipparchia statilinus;(Hufnagel, 1766);Faune;;ES;Nymphalidae;;;RE;;;2016;LC;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;219811;219811;Melitaea aurelia;Nickerl, 1850;Mélitée des digitales;;ES;Nymphalidae;;;CR;;;2016;;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+15;219815;219815;Boloria euphrosyne;(Linnaeus, 1758);Grand collier argenté;;ES;Nymphalidae;;;RE;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;219820;219820;Argynnis aglaja;(Linnaeus, 1758);Grand nacré;;ES;Nymphalidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;219826;219826;Colias alfacariensis;Ribbe, 1905;Fluoré;;ES;Pieridae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;219831;219831;Pieris rapae;(Linnaeus, 1758);Piéride de la rave;;ES;Pieridae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;219833;219833;Pieris napi;(Linnaeus, 1758);Piéride du navet;;ES;Pieridae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;224195;224195;Chelidura acanthopygia;(Géné, 1832);;;ES;Forficulidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;227817;227817;Eumodicogryllus bordigalensis;(Latreille, 1804);Grillon bordelais;;ES;Gryllidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;233208;233208;Araneus triguttatus;Fabricius, 1775;;;ES;Araneidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;233211;233211;Araniella displicata;(Hentz, 1847);;;ES;Araneidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;233213;233213;Cercidia prominens;(Westring, 1851);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;233221;233221;Hypsosinga albovittata;(Westring, 1851);;;ES;Araneidae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;233222;233222;Hypsosinga heri;(Hahn, 1831);;;ES;Araneidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;233223;233223;Hypsosinga pygmaea;(Sundevall, 1831);;;ES;Araneidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;233224;233224;Hypsosinga sanguinea;(C.L. Koch, 1844);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;233226;233226;Larinioides cornutus;(Clerck, 1758);araignée des roseaux;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;233234;233234;Singa nitidula;C.L. Koch, 1844;;;ES;Araneidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;233237;233237;Zilla diodia;(Walckenaer, 1802);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;233242;233242;Zygiella x-notata;(Clerck, 1758);;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;234065;234065;Metellina merianae;(Scopoli, 1763);;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;234066;234066;Metellina segmentata;(Clerck, 1758);;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;234067;234067;Pachygnatha clercki;Sundevall, 1823;;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;234068;234068;Tetragnatha dearmata;Thorell, 1873;;;ES;Tetragnathidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;234069;234069;Tetragnatha isidis;(Simon, 1880);;;ES;Tetragnathidae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;234070;234070;Tetragnatha nigrita;Lendl, 1886;;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;234072;234072;Tetragnatha pinicola;L. Koch, 1870;;;ES;Tetragnathidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239048;239048;Henosepilachna argus;(Geoffroy in Fourcroy, 1785);Coccinelle de la bryone;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239052;239052;Subcoccinella vigintiquatuorpunctata;(Linnaeus, 1758);Coccinelle à 24 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239054;239054;Platynaspis luteorubra;(Goeze, 1777);;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;11136;239056;Brumus quadripustulatus;(Linnaeus, 1758);Coccinelle à virgules;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239063;239063;Scymnus haemorrhoidalis;Herbst, 1797;;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239064;239064;Scymnus limbatus;Stephens, 1832;;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239070;239070;Scymnus bivulnerus;Capra & Fürsch, 1967;;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239074;239074;Scymnus nigrinus;Kugelann, 1794;;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239077;239077;Scymnus rufipes;(Fabricius, 1798);;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239081;239081;Nephus bipunctatus;(Kugelann, 1794);;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239087;239087;Nephus quadrimaculatus;(Herbst, 1783);;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;239088;239088;Nephus redtenbacheri;(Mulsant, 1846);;;ES;Coccinellidae;;;CR*;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239097;239097;Clitostethus arcuatus;(Rossi, 1794);;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239098;239098;Hyperaspis campestris;(Herbst, 1783);;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239106;239106;Hyperaspis pseudopustulata;Mulsant, 1853;;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239110;239110;Sospita vigintiguttata;(Linnaeus, 1758);Coccinelle de l'aulne Coccinelle à 20 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239111;239111;Propylea quatuordecimpunctata;(Linnaeus, 1758);Coccinelle à damier Coccinelle à 14 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239112;239112;Oenopia conglobata;(Linnaeus, 1758);Coccinelle rose Coccinelle à zigzag;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239116;239116;Myzia oblongoguttata;(Linnaeus, 1758);;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239117;239117;Myrrha octodecimguttata;(Linnaeus, 1758);Coccinelle des cimes Coccinelle à 18 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;239125;239125;Coccinella hieroglyphica;Linnaeus, 1758;;;ES;Coccinellidae;;;CR*;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;239126;239126;Coccinella magnifica;Redtenbacher, 1843;Coccinelle des fourmilières;;ES;Coccinellidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;239127;239127;Coccinella quinquepunctata;Linnaeus, 1758;Coccinelle à 5 points;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239128;239128;Calvia quatuordecimguttata;(Linnaeus, 1758);Calvia à 14 points Coccinelle à 14 gouttes;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+19;239129;239129;Calvia quindecimguttata;(Fabricius, 1777);;;ES;Coccinellidae;;;CR*;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239130;239130;Calvia decemguttata;(Linnaeus, 1767);Calvia à 10 points Coccinelle à 10 gouttes;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239131;239131;Aphidecta obliterata;(Linnaeus, 1758);Coccinelle de l'épicéa Coccinelle brune;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239132;239132;Anisosticta novemdecimpunctata;(Linnaeus, 1758);Coccinelle des roseaux;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239133;239133;Psyllobora vigintiduopunctata;(Linnaeus, 1758);Coccinelle à 22 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;239134;239134;Tytthaspis sedecimpunctata;(Linnaeus, 1761);Coccinelle à 16 points;;ES;Coccinellidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;794741;239137;Rhyzobius forestieri;(Mulsant, 1853);;;ES;Coccinellidae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;707054;239138;Rhyzobius lophanthae;(Blaisdell, 1892);;;ES;Coccinellidae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;247041;247041;Zygaena minos;(Denis & Schiffermüller, 1775);Zygène diaphane;;ES;Zygaenidae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;247042;247042;Zygaena purpuralis;(Brünnich, 1763);Zygène pourpre;;ES;Zygaenidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;247045;247045;Zygaena carniolica;(Scopoli, 1763);Zygène de la carniole;;ES;Zygaenidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;247047;247047;Zygaena loti;(Denis & Schiffermüller, 1775);Zygène du lotier;;ES;Zygaenidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;247054;247054;Zygaena viciae;(Denis & Schiffermüller, 1775);Zygène de la vesce;;ES;Zygaenidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;247056;247056;Zygaena ephialtes;(Linnaeus, 1767);Zygène éphialtes;;ES;Zygaenidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;247057;247057;Zygaena transalpina;(Esper, 1780);Zygène transalpine;;ES;Zygaenidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;247058;247058;Zygaena filipendulae;(Linnaeus, 1758);Zygène de la filipendule;;ES;Zygaenidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;247059;247059;Zygaena lonicerae;(Scheven, 1777);Zygène des bois;;ES;Zygaenidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;247060;247060;Zygaena trifolii;(Esper, 1783);Zygène du trèfle;;ES;Zygaenidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;247063;247063;Adscita statices;(Linnaeus, 1758);Turquoise de la Sarcille;;ES;Zygaenidae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;247064;247064;Adscita geryon;(Hübner, 1813);Turquoise des hélianthèmes;;ES;Zygaenidae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+30;247071;247071;Jordanita globulariae;(Hübner, 1793);Turquoise des globulaires;;ES;Zygaenidae;;;VU;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;247073;247073;Rhagades pruni;(Denis & Schiffermüller, 1775);Procris du prunier;;ES;Zygaenidae;;;CR;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;302386;302386;Araniella proxima;(Kulczyński, 1885);;;ES;Araneidae;;;CR;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;304566;304566;Tetragnatha shoshone;Levi, 1981;;;ES;Tetragnathidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;436724;436724;Cicadetta cantilatrix;Sueur & Puissant, 2007;;;ES;Cicadidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;444431;444431;Lissotriton vulgaris;(Linnaeus, 1758);Triton ponctué;;ES;Salamandridae;;;NT;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Amphibiens et reptiles
+40;457228;457228;Metellina mengei;(Blackwall, 1869);;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;457316;457316;Pachygnatha degeeri;Sundevall, 1830;;;ES;Tetragnathidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+25;457320;457320;Aculepeira ceropegia;(Walckenaer, 1802);épeire des bois épeire feuille de chêne;;ES;Araneidae;;;EN;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;457321;457321;Araneus alsine;Walckenaer, 1802;Alsine;;ES;Araneidae;;;NT;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;457331;457331;Larinioides sclopetarius;(Clerck, 1758);Épeire des ponts;;ES;Araneidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;459325;459325;Harmonia axyridis;(Pallas, 1773);Coccinelle asiatique;;ES;Coccinellidae;;;NA;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;521494;521494;Aricia agestis;(Denis & Schiffermüller, 1775);Collier de Corail;;ES;Lycaenidae;;;LC;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+20;593306;593306;Barbitistes serricauda;(Fabricius, 1794);Barbitiste des bois;;ES;Tettigoniidae;;;CR;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+35;593311;593311;Tetrix tenuicornis;(Sahlberg, 1891);Tetrix des carrières;;ES;Tetrigidae;;;NT;;;2016;;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;608405;608405;Pyronia tithonus;(Linnaeus, 1771);Amaryllis;;ES;Nymphalidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;641941;641941;Colias crocea;(Geoffroy in Fourcroy, 1785);Souci;;ES;Pieridae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;646236;646236;Brenthis daphne;(Denis & Schiffermüller, 1775);Nacré de la Ronce Nacré lilacé Nacré lilas Daphné Grande Violette;;ES;Nymphalidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;653286;653286;Ceriagrion tenellum;(Villers, 1789);Agrion délicat;;ES;Coenagrionidae;;;LC;;;2016;LC;LC;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+55;653291;653291;Gomphus simillimus;Selys, 1840;Gomphe similaire;;ES;Gomphidae;;;NA;;;2016;NT;NT;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+40;653829;653829;Calopteryx splendens splendens;(Harris, 1780);Caloptéryx éclatant;;SSES;Calopterygidae;;;LC;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
+45;791562;798284;Scymnus mimulus;Fürsch, 1958;;;ES;Coccinellidae;;;DD;;;2016;;;;Liste rouge régionale de la faune menacée en Picardie;LRR_Faune_Picardie_2016;Insectes et araignées
