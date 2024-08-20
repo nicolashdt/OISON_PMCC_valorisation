@@ -13,12 +13,7 @@ Le géopackage OISON (version mars 2024). Un excel PMCC et le csv de la premièr
 #### 0_chargement_packages
 #### 0_importations_statuts_especes
 #### 1_importation_communes_departements
-#### 1_importation_liste_rouge
 #### 1_importation_listes_rouge
-#### 1_
-#### 1_
-#### 1_
-#### 2_
-#### 3_
-#### 3_
-#### 3_
+#### 1_importation_OISON
+#### 1_importation_PMC
+#### 2_assemblage_bases
