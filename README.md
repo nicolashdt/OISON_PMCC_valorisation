@@ -2,6 +2,9 @@
 ## Objectif
 Ce projet produit des rapports automatisés de l'évolution de la saisies sur les données de l'OFB issues de OISON et du réseau PMCC. 
 ## Arborescence du projet
+### Fichier "Make.R"
+Lancer ce fichier après avoir télécharger le zip du projet. Lancer les premiers scripts pour créer les fichiers intermédiaires dans processed_data.
+Modifier les paramètres de la fonction rmarkdown::render pour changer les dates souhaitées pour les rapports et les bases à utilisées (OISON et/ou PMCC)
 ### Assets
 Elements concernants les espèces et les limites administratives
 Les assets sont utilisées à la fois directement dans le Rmarkdown mais aussi pour générer des fichiers intermédiaires dans processed_data.
