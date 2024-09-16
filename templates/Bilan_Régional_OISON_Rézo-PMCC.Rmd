@@ -65,21 +65,21 @@ colors_pmc <- c(
 
 colors_dep <- c(
   "02" = "#FF6F61",   # Coral
-  "80" = "#6B5B95",   # Purple
+  "80" = "#a57fc7",   # Violet
   "62" = "#88B04B",   # Greenery
-  "59" = "#F7CAC9",   # Rose Quartz
+  "59" = "#D2AB85",   # Light Brown
   "60" = "#92A8D1"    # Serenity
 )
 
 colors_statut <- c(
-  "envahissante" = "#F77F00",   # Orange
-  "menacée" = "#3DAF2A",        # Vert clair
-  "normale" = "#377EB8"      # Bleu clair
+  "Envahissantes" = "#F77F00",   # Orange
+  "Menacées" = "#3DAF2A",        # Vert clair
+  "Normales" = "#377EB8"      # Bleu clair
 )
 
 colors_pro <- c(
-  "protégée" = "darkgreen",   # Vert
-  "non protégée" = "darkblue"  # Jaune
+  "Protégées" = "darkgreen",   # Vert
+  "Non protégées" = "darkblue"  # Jaune
 )
 
 # Ouverture des fichiers utiliser dans le Rmarkdown
@@ -110,7 +110,10 @@ if(params$PMC=="FALSE" & params$OISON=="FALSE"){
 ```
 
 # Introduction
+
 Les données présentées sont issues des bases de données OISON et du réseau-PMCC de l'OFB. Elles font ici l'objet d'un suivi sur le nombre de saisies, le nombre d'observateurs, la saisie moyenne par observateur, les groupes d'espèces, leur statut dans les listes rouges ou envahissantes, les espèces protégées en France et leur répartition géographique.
+
+Un observateur est relié au département dans lequel il a le plus saisie.
 
 Les saisies sur la commune de Cottenchy (80) ont été exclues.
 
@@ -120,7 +123,7 @@ Depuis toujours les agents de l'OFB sur le terrain réalisent des observations q
 
 A propos de rézo-PMCC :
 
-Le réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartition des populations de 14 espèces de carnivores en France métropolitaine, aux statuts règlementaires et de conservation variés. Les connaissances acquises grâce à ce réseau interne permettent à l’Office français de la biodiversité (OFB) d’apporter une expertise technique et scientifique sur ces espèces à tous les niveaux : départemental, régional, national et européen.
+Le réseau Petits et mésocarnivores (PMC) suit l’évolution de la répartition des populations de 14 espèces de carnivores en France métropolitaine, aux statuts règlementaires et de conservation variés. Les connaissances acquises grâce à ce réseau interne permettent à l’Office français de la biodiversité (OFB) d’apporter une expertise technique et scientifique sur ces espèces à tous les niveaux : départemental, régional, national et européen.
 
 \newpage
 
@@ -260,8 +263,17 @@ ggplot(saisie_derniere_annee) +
 observateurs <- OISON_PMC %>% 
   filter(annee >= params$annee_debut & annee <= params$annee_fin) %>%
   st_set_geometry(NULL) %>% 
+  select(annee, INSEE_DEP, Observateur) %>%
+  # Compter le nombre d'observations par observateur et département
+  group_by(annee, INSEE_DEP, Observateur) %>%
+  summarise(nombre_observations = n(), .groups = 'drop') %>%
+  # Trouver le maximum de nombre d'observations par observateur
+  group_by(annee, Observateur) %>%
+  filter(nombre_observations == max(nombre_observations)) %>%
+  ungroup() %>%
+  # Déduire le département avec le maximum d'observations pour chaque observateur
   group_by(annee, INSEE_DEP) %>%
-  summarise(nombre_observateurs = n_distinct(Observateur))
+  summarise(nombre_observateurs = n_distinct(Observateur), .groups = 'drop')
 
 observateurs_histo <- observateurs
 observateurs_histo$annee <- as.factor(observateurs_histo$annee)
@@ -285,7 +297,7 @@ observateurs_histo$INSEE_DEP <- observateurs_histo$INSEE_DEP %>%
 <br>
 
 ```{r , fig.width = 6 , fig.height = 3.5}
-# Transformation en tableau croisé dynamique
+# Transformation en tableau croisé
 observateurs_tableau <- observateurs %>%
   dcast(annee ~ INSEE_DEP, value.var = "nombre_observateurs", fill = 0) %>% # transforme en tableau
   mutate(total = rowSums(select(., -annee), na.rm = TRUE)) %>% # calcul les totaux
@@ -381,28 +393,23 @@ ggplot(observateurs_derniere_annee) +
 
 \newpage
 
-## Evolution de la saisie moyenne par observateur
+## Evolution du nombre moyen de saisie par observateur
 
 ```{r}
-saisies_observateur <- OISON_PMC %>%
-  st_set_geometry(NULL) %>%
-  filter(annee >= params$annee_debut & annee <= params$annee_fin) %>%
-  group_by(annee, INSEE_DEP, Observateur) %>%
-  summarise(nombre_saisies = n()) %>%
-  group_by(annee, INSEE_DEP) %>%
-  summarise(moyenne_saisies_observateur = mean(nombre_saisies)) %>% 
-  arrange(moyenne_saisies_observateur)
-
-saisies_observateur_histo <- saisies_observateur
+saisies_observateur <- saisies %>%
+  left_join(observateurs) %>%
+  mutate(moyenne_saisies_observateur =
+           ifelse(!is.na(nombre_observateurs)
+                  & nombre_observateurs > 0, 
+                  nombre_saisies / nombre_observateurs, 
+                  0)) %>% 
+  select(annee,INSEE_DEP,moyenne_saisies_observateur)
+  
+saisies_observateur_histo <- Observateursaisies_observateur_histo <- saisies_observateur
 saisies_observateur_histo$annee <- as.factor(saisies_observateur_histo$annee)
 
-saisies_observateur_derniere_annee <- OISON_PMC %>%
-  st_set_geometry(NULL) %>%
+saisies_observateur_derniere_annee <- saisies_observateur %>%
   filter(annee == params$annee_fin) %>%
-  group_by(annee, INSEE_DEP, Observateur) %>%
-  summarise(nombre_saisies = n()) %>%
-  group_by(annee, INSEE_DEP) %>%
-  summarise(moyenne_saisies_observateur = mean(nombre_saisies)) %>% 
   arrange(moyenne_saisies_observateur)
 
 saisies_observateur$INSEE_DEP <- saisies_observateur$INSEE_DEP %>% 
@@ -427,7 +434,7 @@ saisies_observateur_moy <- OISON_PMC %>%
 
 # Transformation en tableau croisé dynamique
 saisies_observateur_tableau <- saisies_observateur %>%
-  mutate(moyenne_saisies_observateur=round(moyenne_saisies_observateur,0)) %>%  # arrondi les moyennes
+  mutate(moyenne_saisies_observateur=round(moyenne_saisies_observateur,1)) %>%  # arrondi les moyennes
   dcast(annee ~ INSEE_DEP, value.var = "moyenne_saisies_observateur", fill = 1) %>% # transforme en tableau
   mutate(total=saisies_observateur_moy$moyenne_saisies_observateur) %>%  # ajoute les moyennes totales
   mutate(annee = as.character(annee)) # met annee en caractere
@@ -454,7 +461,7 @@ flextable(saisies_observateur_tableau) %>%
   bold(part = "header") %>% 
   align(j = 2:7, align = "right") %>%   # Aligner à droite les colonnes de saisies
   align(part = "header",j = 2:7, align = "right") %>% 
-  set_caption(caption = paste("Evolution de la saisie moyenne par observateur par département",nom_bases))
+  set_caption(caption = paste("Evolution du nombre moyen de saisie par observateur par département",nom_bases))
   
 , width = 1)
 ```
@@ -473,7 +480,7 @@ ggplot(saisies_observateur) +
     x = "Années",
     y = "Saisie moyenne par observateur",
     color = "Départements",
-    title = paste("Evolution de la saisie moyenne par observateur", nom_bases)
+    title = paste("Evolution du nombre moyen de saisie par observateur", nom_bases)
   ) +
   scale_color_manual(values=colors_dep) +
   theme_minimal()+
@@ -489,7 +496,7 @@ ggplot(saisies_observateur_histo) +
     x = "Départements",
     y = "Saisie moyenne par observateur",
     fill = "Années",
-    title = paste("Evolution de la saisie moyenne par observateur",nom_bases)
+    title = paste("Evolution du nombre moyen de saisie par observateur",nom_bases)
   ) +
   theme_minimal()+
   guides(fill = guide_legend(reverse = TRUE)) +
@@ -515,7 +522,7 @@ ggplot(saisies_observateur_violon, aes(x = INSEE_DEP, y = nombre_saisies)) +
   labs(
     x = "Départements",
     y = "Nombre de saisies par observateur",
-    title = paste("Répartition du nombre de saisie par observateur en",params$annee_fin, nom_bases),
+    title = paste("Répartition du nombre de saisies par observateur en",params$annee_fin, nom_bases),
     caption = "Explications : 
     - Ligne centrale dans chaque boîte représente la médiane.
     - Les bords de chaque boîte représentent les 1er et 3e quartiles (Q1 et Q3).
@@ -542,8 +549,8 @@ ggplot(saisies_observateur_violon, aes(x = INSEE_DEP, y = nombre_saisies, fill=I
     fill="Départements",
     title = paste("Répartition du nombre de saisie par observateur en",params$annee_fin, nom_bases),
     caption="Explications :
-    - La largeur du violon indique le nombre d'observateurs relatif
-    - Le carré noir représente la médiane.
+    - Pour un nombre de saisie donné, plus la zone est large, plus il y a d'observateurs
+    - Le carré noir représente la médiane
     - Le losange rouge représente la moyenne"
   ) +
   theme_minimal()+
@@ -558,7 +565,7 @@ ggplot(saisies_observateur_violon, aes(x = INSEE_DEP, y = nombre_saisies, fill=I
 
 # Evolution sur les espèces
 
-## Evolution régionale du nombre de saisies par groupe d'espèces
+## Evolution du nombre régional de saisies par groupe d'espèces
 
 ```{r}
 groupes_espece_par_annee <- OISON_PMC %>% 
@@ -582,8 +589,8 @@ ggplot(groupes_espece_par_annee) +
   scale_colour_manual(values = colors_esp) +
   labs(x = "Années",
        y = "Nombre de saisies",
-       colour = "Groupes d'espèce",
-       title = paste("Evolution régionale du nombre de saisies par groupe d'espèce",nom_bases)) +
+       colour = "Groupes d'espèces",
+       title = paste("Evolution du nombre régional de saisies par groupe d'espèces",nom_bases)) +
   theme_minimal() +
   theme(text = element_text(size = 9))
 ```
@@ -616,7 +623,7 @@ ggplot(groupes_espece)+
                 label=paste0(GROUP2_INPN, "\n (",pourcentage, "%)")),
                 size = 3)+
   labs(
-    title = paste("Proportions du nombre de saisies régionales par groupe d'espèce en",params$annee_fin,nom_bases),
+    title = paste("Proportions du nombre régional de saisies par groupe d'espèce en",params$annee_fin,nom_bases),
     fill = "Groupes d'espèces"
     ) +
   theme(
@@ -688,7 +695,7 @@ flextable(groupes_espece_tableau) %>%
   bg(i=nrow(groupes_espece_tableau), bg = "#DDDDDD") %>%
   align(j = 2:13, align = "right") %>%   # Aligner à droite les colonnes de saisies
   align(part = "header",j = 2:13, align = "right") %>% 
-  set_caption(caption = paste("Nombre de saisie par groupe d'espèces et par échelle en", params$annee_fin ,nom_bases)) %>% 
+  set_caption(caption = paste("Nombre de saisies par groupe d'espèces et par département en", params$annee_fin ,nom_bases)) %>% 
   set_table_properties(width = 0.8, layout = "autofit")
   
 , width = 0.5)
@@ -698,7 +705,7 @@ flextable(groupes_espece_tableau) %>%
 # Condition pour afficher le titre
 if (params$OISON) {
   cat("\\newpage\n")
-  cat("## Evolution du nombre de saisies régionales par groupe d'espèces (sans oiseaux)\n")
+  cat("## Evolution du nombre régional de saisies par groupe d'espèces hors oiseaux\n")
 }
 ```
 
@@ -731,9 +738,12 @@ if (params$OISON) {
     labs(x = "Années",
          y = "Nombre de saisies",
          colour = "Groupes d'espèce",
-         title = paste("Evolution du nombre de saisies régionales par groupe d'espèces sans les oiseaux", nom_bases)) +
+         title = paste("Evolution du nombre régional de saisies par groupe d'espèces hors oiseaux", nom_bases)) +
     theme_minimal() +
-    theme(text = element_text(size = 9))
+    theme(
+      text = element_text(size = 9),
+      plot.title = element_text(size = 10)  # Ajustez la taille du titre ici
+    )
 }
 ```
 
@@ -771,11 +781,11 @@ if (params$OISON) {
                   size = 3) +
     labs(
       fill = "Groupes d'espèce",
-      title = paste("Proportions des saisies régionales par groupe d'espèces sans les oiseaux en", params$annee_fin, nom_bases)
+      title = paste("Proportions du nombre régional de saisies par groupe d'espèces hors oiseaux en", params$annee_fin, nom_bases)
     ) +
   theme(
     text = element_text(size = 9),
-    plot.title = element_text(hjust = 0.2),  # Aligne le titre à gauche
+    plot.title = element_text(hjust = 0.2, size = 9),  # Aligne le titre à gauche et change la taille
     legend.margin = margin(t = 0, r = 0, b = 0, l = 50),  # Espace à gauche de la légende
     plot.margin = margin(t = 1, r = 3, b = 1, l = 3)
   )
@@ -784,9 +794,9 @@ if (params$OISON) {
 
 \newpage
 
-## Proportions d'espèces sans les oiseaux par département
+## Répartition des saisies d'espèces hors oiseaux par département
 
-<br> Graphiques radars sur les proportions (%) d'espèces saisies sans les oiseaux de `r params$annee_debut` à `r params$annee_fin` : <br>
+<br> Graphiques radars sur les proportions (%) d'espèces saisies hors oiseaux de `r params$annee_debut` à `r params$annee_fin` : <br>
 
 ```{r}
 # Fonction pour créer des graphiques radars (library(fmsb))
@@ -858,9 +868,9 @@ par(op)
 
 \newpage
 
-# Evolution sur les espèces menacées et envahissantes
+# Evolution des saisies d'espèces menacées et envahissantes
 
-## Evolution régionale du nombre de saisies par statut
+## Evolution du nombre régional de saisies par statut
 
 ```{r}
 statuts_espece_par_annee <- OISON_PMC %>% 
@@ -902,7 +912,7 @@ flextable(statuts_espece_par_annee_tableau) %>%
   bold(part = "header") %>% 
   align(j = 2:5, align = "right") %>%   # Aligner à droite les colonnes de saisies
   align(part = "header",j = 2:5, align = "right") %>% 
-  set_caption(caption = paste("Evolution régionale du nombre de saisies par statut" ,nom_bases)) %>% 
+  set_caption(caption = paste("Evolution du nombre régional de saisies par statut" ,nom_bases)) %>% 
   set_table_properties(width = 0.8, layout = "autofit")
   
 , width = 1)
@@ -914,14 +924,15 @@ flextable(statuts_espece_par_annee_tableau) %>%
 ggplot(statuts_espece_par_annee) +
   aes(x = annee, y = nb_saisies, colour = statut_LR) +
   geom_smooth(se = FALSE) +
-  geom_point()+
+  geom_point() +
   scale_colour_manual(values = colors_statut) +
   labs(x = "Années",
        y = "Nombre de saisies",
        colour = "Statuts",
-       title = paste("Evolution régionale du nombre de saisies par statut", nom_bases)) +
+       title = paste("Evolution du nombre régional de saisies par statut", nom_bases)) +
   theme_minimal() +
   theme(text = element_text(size = 9))
+
 ```
 
 ```{r , fig.width = 6.5 , fig.height = 3.5}
@@ -946,7 +957,7 @@ ggplot(statuts_espece)+
   geom_bar(width = 1, stat = "identity", color = "white") +
   coord_polar(theta = "y")+
   theme_void()+
-  scale_fill_manual(values = colors_statut) +
+   scale_fill_manual(values = colors_statut)+
   
   geom_text(data=tail(statuts_espece,4),
             aes(x = 1.8, 
@@ -955,7 +966,7 @@ ggplot(statuts_espece)+
                 size = 3)+
   labs(
     fill = "Statuts",
-    title = paste("Proportions du nombre de saisies régionales par statut en",params$annee_fin,nom_bases)
+    title = paste("Proportions du nombre régional de saisies par statut en",params$annee_fin,nom_bases)
     ) +
   theme(
     text = element_text(size = 9),
@@ -978,14 +989,14 @@ ggplot(statuts_espece_dep) +
     x = "Statuts",
     y = "Nombre de saisies",
     fill = "Départements",
-    title = paste("Nombre de saisie par statut par département en", params$annee_fin, nom_bases)) +
+    title = paste("Nombre de saisies par statut par département en", params$annee_fin, nom_bases)) +
   theme_minimal() +
   theme(text = element_text(size = 9))
 ```
 
 \newpage
 
-# Evolutions sur les espèces protégées
+# Evolutions des saisies d'espèces protégées
 
 ```{r}
 espece_pro_par_annee <- OISON_PMC %>% 
@@ -1026,8 +1037,8 @@ flextable(espece_pro_par_annee_tableau) %>%
   bold(part = "header") %>% 
   align(j = 2:4, align = "right") %>%   # Aligner à droite les colonnes de saisies
   align(part = "header",j = 2:4, align = "right") %>% 
-  set_caption(caption = paste("Evolution régionale du nombre de saisies des espèces protégées" ,nom_bases)) %>% 
-  set_table_properties(width = 0.7, layout = "autofit")
+  set_caption(caption = paste("Evolution du nombre régional de saisies d'espèces protégées" ,nom_bases)) %>% 
+  set_table_properties(width = 0.8, layout = "autofit")
   
 , width = 1)
 ```
@@ -1038,7 +1049,7 @@ flextable(espece_pro_par_annee_tableau) %>%
 groupes_espece_pro_dep <- OISON_PMC %>% 
   group_by(GROUP2_INPN,INSEE_DEP) %>% 
   filter(annee==params$annee_fin) %>% 
-  filter(espece_pro=="protégée") %>% 
+  filter(espece_pro=="Protégées") %>% 
   summarise(nb_saisies = n()) %>% 
   st_set_geometry(NULL) 
 
@@ -1046,7 +1057,7 @@ groupes_espece_pro_dep <- OISON_PMC %>%
 groupes_espece_pro_tableau <- OISON_PMC %>% 
   group_by(GROUP2_INPN) %>% 
   filter(annee==params$annee_fin) %>% 
-  filter(espece_pro=="protégée") %>%
+  filter(espece_pro=="Protégées") %>%
   summarise(nb_saisies = n()) %>% 
   st_set_geometry(NULL) %>% 
   mutate(INSEE_DEP="Région") %>% 
@@ -1093,7 +1104,7 @@ flextable(groupes_espece_pro_tableau) %>%
   bg(i=nrow(groupes_espece_pro_tableau), bg = "#DDDDDD") %>%
   align(j = 2:13, align = "right") %>%   # Aligner à droite les colonnes de saisies
   align(part = "header",j = 2:13, align = "right") %>% 
-  set_caption(caption = paste("Nombre de saisie par groupe d'espèces protégées et par échelle en", params$annee_fin ,nom_bases)) %>% 
+  set_caption(caption = paste("Nombre de saisies par groupe d'espèces protégées et par échelle en", params$annee_fin ,nom_bases)) %>% 
   set_table_properties(width = 0.8, layout = "autofit")
   
 , width = 0.5)
@@ -1110,7 +1121,7 @@ ggplot(espece_pro_par_annee) +
   labs(x = "Années",
        y = "Nombre de saisies",
        colour = "Réglementation",
-       title = paste("Evolution régionale du nombre de saisies des espèces protégées", nom_bases)) +
+       title = paste("Evolution du nombre régional de saisies des espèces protégées", nom_bases)) +
   theme_minimal() +
   theme(text = element_text(size = 9))
 ```
@@ -1167,17 +1178,16 @@ ggplot(espece_pro_dep) +
     x = "Réglementation",
     y = "Nombre de saisies",
     fill = "Départements",
-    title = paste("Nombre de saisie par réglementation et par département en", params$annee_fin, nom_bases)) +
+    title = paste("Nombre de saisie par statut réglementaire et par département en", params$annee_fin, nom_bases)) +
   theme_minimal() +
   theme(text = element_text(size = 9))
 ```
-
 
 ```{r}
 groupes_espece_pro <- OISON_PMC %>% 
   group_by(GROUP2_INPN) %>% 
   filter(annee==params$annee_fin) %>% 
-  filter(espece_pro=="protégée") %>% 
+  filter(espece_pro=="Protégées") %>% 
   summarise(nb_saisies = n()) %>% 
   st_set_geometry(NULL) %>% 
   arrange(nb_saisies) %>% 
@@ -1202,7 +1212,7 @@ ggplot(groupes_espece_pro)+
                 label=paste0(GROUP2_INPN, "\n (",pourcentage, "%)")),
                 size = 3)+
   labs(
-    title = paste("Nombre de saisies régionales par groupe d'espèce protégées en", params$annee_fin, nom_bases),
+    title = paste("Nombre régional de saisies par groupe d'espèce protégées en", params$annee_fin, nom_bases),
     fill = "Groupes d'espèces"
     ) +
   theme(
@@ -1230,11 +1240,13 @@ ggplot(observations_chaleur) +
   geom_sf(data = departements, fill = NA, color = "black", lwd = 0.5)+
   labs(title=paste("Carte de chaleur : Représentation des saisies de",params$annee_debut,"à",params$annee_fin,nom_bases))+
   theme_void()+
-  theme(text = element_text(size = 9))
+  theme(text = element_text(size = 9),
+      plot.title = element_text(size = 9))
 ```
+
 <br>
 
-Cette carte de chaleur représente les saisies par des ronds rouge transparent. Plus une zone est couverte par des points, plus l'intensité du rouge augmente. \newpage
+Cette carte de chaleur représente les saisies par des ronds rouges transparents. Plus une zone est couverte par des points, plus l'intensité du rouge augmente. \newpage
 
 ## Représentation des saisies par statut
 
@@ -1251,13 +1263,14 @@ ggplot(observations_statut) +
   scale_color_manual(values = colors_statut, name = "Statuts espèces") +
   labs(title = paste("Représentation des saisies par statuts",params$annee_debut,"à",params$annee_fin,nom_bases)) +
   theme_void() +
-  theme(text = element_text(size = 9))
+  theme(text = element_text(size = 9),
+      plot.title = element_text(size = 9) )
 ```
 
 ```{r}
 observations_statut_normale <- OISON_PMC %>% 
   filter(annee >= params$annee_debut & annee <= params$annee_fin) %>% 
-  filter(statut_LR=="normale")
+  filter(statut_LR=="Normales")
 ```
 
 ```{r , fig.width = 6.5 , fig.height = 4}
@@ -1267,13 +1280,14 @@ ggplot(observations_statut_normale) +
   scale_color_manual(values = colors_statut, name = "Statut espèces") +
   labs(title = paste("Représentation des saisies des espèces normales de",params$annee_debut,"à",params$annee_fin,nom_bases)) +
   theme_void() +
-  theme(text = element_text(size = 9))
+  theme(text = element_text(size = 9),
+      plot.title = element_text(size = 9) )
 ```
 
 ```{r}
 observations_statut_menacee <- OISON_PMC %>% 
   filter(annee >= params$annee_debut & annee <= params$annee_fin) %>%
-  filter(statut_LR=="menacée")
+  filter(statut_LR=="Menacées")
 ```
 
 ```{r , fig.width = 6.5 , fig.height = 4}
@@ -1283,13 +1297,14 @@ ggplot(observations_statut_menacee) +
   scale_color_manual(values = colors_statut, name = "Statut espèces") +
   labs(title = paste("Représentation des saisies des espèces menacées de",params$annee_debut,"à",params$annee_fin,nom_bases)) +
   theme_void() +
-  theme(text = element_text(size = 9))
+  theme(text = element_text(size = 9),
+      plot.title = element_text(size = 9) )
 ```
 
 ```{r}
 observations_statut_envahissante <- OISON_PMC %>% 
   filter(annee >= params$annee_debut & annee <= params$annee_fin) %>%
-  filter(statut_LR=="envahissante")
+  filter(statut_LR=="Envahissantes")
 ```
 
 ```{r , fig.width = 6.5 , fig.height = 4}
@@ -1299,7 +1314,8 @@ ggplot(observations_statut_envahissante) +
   scale_color_manual(values = colors_statut, name = "Statut espèces") +
   labs(title = paste("Représentation des saisies des espèces envahissantes de",params$annee_debut,"à",params$annee_fin,nom_bases)) +
   theme_void() +
-  theme(text = element_text(size = 9))
+  theme(text = element_text(size = 9),
+      plot.title = element_text(size = 9) )
 ```
 
 ## Représentation des saisies sur les espèces protégées
@@ -1316,13 +1332,14 @@ ggplot(observations_espece_pro) +
   scale_color_manual(values = colors_pro, name = "Réglementation") +
   labs(title = paste("Représentation des saisies sur les espèces protégées ou non de",params$annee_debut,"à",params$annee_fin,nom_bases)) +
   theme_void() +
-  theme(text = element_text(size = 9))
+  theme(text = element_text(size = 9),
+      plot.title = element_text(size = 9) )
 ```
 
 ```{r}
 observations_espece_pro_seulement <- OISON_PMC %>% 
   filter(annee >= params$annee_debut & annee <= params$annee_fin) %>% 
-  filter(espece_pro=="protégée")
+  filter(espece_pro=="Protégées")
 ```
 
 ```{r , fig.width = 6.5 , fig.height = 4}
@@ -1332,13 +1349,14 @@ ggplot(observations_espece_pro_seulement) +
   scale_color_manual(values = colors_pro, name = "Réglementation") +
   labs(title = paste("Représentation des saisies sur les espèces protégées de",params$annee_debut,"à",params$annee_fin,nom_bases)) +
   theme_void() +
-  theme(text = element_text(size = 9))
+  theme(text = element_text(size = 9),
+      plot.title = element_text(size = 9) )
 ```
 
 ```{r}
 observations_espece_non_pro <- OISON_PMC %>% 
   filter(annee >= params$annee_debut & annee <= params$annee_fin) %>% 
-  filter(espece_pro=="non protégée")
+  filter(espece_pro=="Non protégées")
 ```
 
 ```{r , fig.width = 6.5 , fig.height = 4}
@@ -1346,9 +1364,10 @@ ggplot(observations_espece_non_pro) +
   geom_sf(aes(geometry = geom, color = espece_pro), lwd = 0.5, alpha = 0.2, size = 1.5, shape = 19) +
   geom_sf(data = departements, fill = NA, color = "black", lwd = 0.5) +
   scale_color_manual(values = colors_pro, name = "Réglementation") +
-  labs(title = paste("Saisies des espèces non protégées de",params$annee_debut,"à",params$annee_fin,nom_bases)) +
+  labs(title = paste("Représentation des Saisies des espèces non protégées de",params$annee_debut,"à",params$annee_fin,nom_bases)) +
   theme_void() +
-  theme(text = element_text(size = 9))
+  theme(text = element_text(size = 9),
+      plot.title = element_text(size = 9))
 ```
 
 \newpage
@@ -1365,4 +1384,46 @@ ggplot(observations_espece_non_pro) +
 
 ```{r, fig.align='center', out.width="50%"}
 knitr::include_graphics("../assets/Categories_LR.png")
+```
+
+
+```{r , fig.width = 6 , fig.height = 3.5, include = FALSE}
+# POUR CHARGER CETTE PARTIE : include = TRUE
+cat("## Annexe 2 : Nombre de saisies par observateur par département")
+
+observateurs_noms_tableau <- OISON_PMC %>% 
+  filter(annee == params$annee_fin) %>%
+  st_set_geometry(NULL) %>% 
+  select(annee, INSEE_DEP, Observateur) %>%
+  # Compter le nombre d'observations par observateur et département
+  group_by(annee, INSEE_DEP, Observateur) %>%
+  summarise(nombre_observations = n(), .groups = 'drop') %>%
+  # Trouver le maximum de nombre d'observations par observateur
+  group_by(annee, Observateur) %>%
+  filter(nombre_observations == max(nombre_observations)) %>%
+  ungroup() %>%
+  # Déduire le département avec le maximum d'observations pour chaque observateur
+  group_by(annee, INSEE_DEP, Observateur) %>%
+  summarise(nombre_observations=n(), .groups = 'drop') %>%
+  # Arrange par département
+  arrange(INSEE_DEP) %>% 
+  # Garder que les colonnes
+  select(Observateur,INSEE_DEP)
+
+width(
+  
+flextable(observateurs_noms_tableau) %>%
+  set_header_labels(
+    INSEE_DEP = "Département",
+    `Observateur` = "Nom Observateur"
+  ) %>%
+  theme_vanilla() %>%
+  color(part = "header", color = "white") %>%
+  bg(part = "header", bg = "#333333") %>%
+  bold(part = "header") %>%
+  set_caption(caption = paste("Noms des observateurs avec leur département où ils saisissent le plus sur l'année",params$annee_fin,nom_bases)) %>% 
+  set_table_properties(width = 0.5, layout = "autofit") %>% 
+  fontsize(part="all",size=7)
+  
+, width = 0.5)
 ```
